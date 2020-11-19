@@ -34,12 +34,12 @@ The details are as follows:
         - On-demand microtransit will be represented as a pooled ridehail option. 
           This means that the existing BEAM ridehail manager may need modest changes to represent
           lower fares or more restrictive geofencing.
-  2. BEAM output files for highway and transit networks are provided as inputs to the 
+  3. BEAM output files for highway and transit networks are provided as inputs to the 
      multi-modal optimization program (SAM?). Also supplied is the
      the BEAM output plans file, with which mode each individual used for each trip.
-  3. SAM will generate a new fixed-route transit network and a list of ridehail and on-demand
+  4. SAM will generate a new fixed-route transit network and a list of ridehail and on-demand
      transit requests.
         - We will need to develop a strategy to convert these request frequencies and 
-          locations into a fleet design, which will feed back into step 1.
+          locations into a fleet design, which will feed back into step 2.
           
 Both halves of the model will use the same mode choice model utility functions.
