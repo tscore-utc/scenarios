@@ -13,6 +13,14 @@ The MMOS scenarios are developed for two metropolitan regions:
 
 ## Project Navigation
 
+There are four key folders in this repository:
+
+1. **convert:** Contains the files created externally, e.g. MATSim network file, ride-hail services etc, that are to be converted to BEAM supported format.
+2. **output:** Contains the total output generated from a BEAM run. Follows the convention specified in BEAM user guide. Will be locally available only, i.e. ignored while committing to github.
+3. **sf-tscore:** Contains the relevant input and output files for MMOS scenario in San Francisco County, California.
+4. **slc-tscore:** Contains the relevant input and output files for MMOS scenario in Wasatch Front region (Salt Lake City and environs), Utah.
+
+The *How to Run TSCORE Scenario* markdown file describes the input files necessary for scenario analyses and how to run these scenario.
 
 ## Handoff Strategy
 This section describes the specifics of how the two different halves of the MMOS 
