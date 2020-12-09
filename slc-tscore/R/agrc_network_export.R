@@ -157,5 +157,13 @@ mylinks <- mylinks %>%
 # Write out ===================
 st_write(mylinks, file.path("input/shape/network.geojson"), delete_dsn = TRUE)
 system2("7z", c("a", "input/shape/network.geojson.zip", "input/shape/network.geojson"))
+write_csv(mylinks %>% st_set_geometry(NULL), "input/shape/links.csv")
 
+scope_nodes %>%
+  mutate(
+    x = st_coordinates(.)[, 1],
+    y = st_coordinates(.)[, 2]
+  ) %>%
+  st_set_geometry(NULL) %>%
+  write_csv(file.path("input/shape/nodes.csv"))
 
