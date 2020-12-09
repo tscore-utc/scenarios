@@ -45,3 +45,117 @@ if(!file.exists(gtfs)){
 }
 
 
+
+# Pull network data from GDB ===============
+agrc_layers <- st_layers(filegdb)
+
+# get nodes
+nodes <- st_read(filegdb, layer = "NetworkDataset_ND_Junctions") %>%
+  st_transform(4326) %>%
+  mutate(id = row_number())
+
+# get auto_links
+links <- st_read(filegdb, layer = "AutoNetwork") %>%
+  st_transform(4326)
+
+
+
+
+
+# Set up geographic scope ========
+scope_nodes <- nodes %>% 
+  st_filter(scope) 
+
+scope_links <- links %>%
+  mutate(link_id = row_number(), AADT = ifelse(AADT == 0, NA, AADT)) %>%
+  select(link_id, Oneway, Speed, DriveTime, Length_Miles, RoadClass, AADT) %>%
+  st_filter(scope)
+
+# plot to visualize links
+# ggplot(scope_links, aes(color = RoadClass)) + 
+#   geom_sf()
+
+# Node identification =======
+# The links don't have any node information on them. So let's extract the
+# first and last points from each polyline. This actually extracts all of them
+link_points <- scope_links %>%
+  select(link_id) %>%
+  st_cast("POINT") # WARNING: will generate n points for each point.
+
+# now we get the first point of each feature and find the nearest node
+start_nodes <- link_points %>% group_by(link_id) %>% slice(1) %>%
+  st_join(scope_nodes, join = st_nearest_feature) %>%
+  rename(start_node = id)
+# and do the same for the last n() point of each feature
+end_nodes <- link_points %>% group_by(link_id) %>% slice(n()) %>%
+  st_join(scope_nodes, join = st_nearest_feature) %>%
+  rename(end_node = id)
+
+# finally, we put this back on the data
+mylinks <- scope_links %>%
+  left_join(start_nodes %>% st_set_geometry(NULL), by = "link_id") %>%
+  left_join(end_nodes   %>% st_set_geometry(NULL), by = "link_id")
+
+
+# Capacity ===================
+# The data have no lane information, which is pretty criminal. But we'll make
+# due with some defaults
+hcmr_lookup <- read_csv("R/hcmr_lookup.csv.zip")
+
+# well, we end up needing to use lots of defaults. 
+link_attributes <- tibble(
+  RoadClass = c(
+    "1 Interstates", 
+    "2 US Highways, Separated",  "3 US Highways, Unseparated", 
+    "4 Major State Highways, Separated",  "5 Major State Highways, Unseparated", 
+    "6 Other State Highways (Institutional)",  "7 Ramps, Collectors", 
+    "8 Major Local Roads, Paved",  "9 Major Local Roads, Not Paved",
+    "10 Other Federal Aid Eligible Local Roads", 
+    "11 Other Local, Neighborhood, Rural Roads",  "12 Other"
+  ),
+  ft = c(
+    "Freeway",  "MLHighway", "PrArterial", 
+    "MLHighway", "PrArterial", "MinArterial", "MinArterial",
+    "MinArterial", "MinArterial", "Local", "Local", "Local"
+  ),
+  lanes = c(
+    4,  3, 2, 3, 2,  2, 2,  2, 2,  1, 1, 1
+  ),
+  sl = c(
+    65, 55, 50, 50, 45, 40, 35, 30, 20, 25, 25, 25
+  ),
+  med = c(
+    "Restrictive", 
+    "Restrictive", "NonRestrictive",
+    "Restrictive", "NonRestrictive",
+    "NonRestrictive", "NonRestrictive",
+    "NonRestrictive", "NonRestrictive",
+    "None", "None", "None"
+  ),
+  at = "Suburban", terrain = "level"
+)
+
+mylinks <- mylinks %>%
+  left_join(link_attributes) %>%
+  left_join(hcmr_lookup) %>%
+  mutate(
+    Oneway = case_when(
+      Oneway == "B" ~ 0,
+      TRUE ~ 1
+    )
+  )
+
+
+# plot to visualize capacity
+# ggplot(mylinks_capacity, aes(x = capacity * 10, y = AADT)) + geom_point() +
+#   geom_abline(slope = 1, intercept = 0, lty = "dotted") + 
+#   scale_x_log10() + scale_y_log10()
+# 
+# ggplot(mylinks_capacity, aes(color = capacity)) + geom_sf()
+
+
+# Write out ===================
+st_write(mylinks, file.path("input/shape/network.geojson"), delete_dsn = TRUE)
+system2("7z", c("a", "input/shape/network.geojson.zip", "input/shape/network.geojson"))
+
+
