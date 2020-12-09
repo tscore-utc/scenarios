@@ -30,3 +30,18 @@ if(!file.exists(filegdb)) {
 } 
 
 
+# Get UTA GTFS file ================
+# The current (August '20) UTA services are highly affected by COVID-19. We
+# are going to use the services as deployed in September '19. 
+gtfs <- file.path("slc.gtfs") 
+if(!file.exists(gtfs)){
+  zipped_gtfs <- "input/r5/SLC.zip"
+  if(!file.exists(zipped_gtfs)){
+    download.file(
+      "https://transitfeeds.com/p/utah-transportation-authority/59/20190909/download",  
+      zipped_gtfs)
+  }
+  system2("7z", c("e", zipped_gtfs, str_c("-o", gtfs)))
+}
+
+
