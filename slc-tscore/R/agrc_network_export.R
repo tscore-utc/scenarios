@@ -143,7 +143,9 @@ mylinks <- mylinks %>%
       Oneway == "B" ~ 0,
       TRUE ~ 1
     )
-  )
+  ) %>%
+  # unpaved roads without capacity should not be included.
+  filter(!is.na(capacity))
 
 
 # plot to visualize capacity
