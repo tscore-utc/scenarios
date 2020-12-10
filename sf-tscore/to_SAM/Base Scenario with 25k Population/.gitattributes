@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-*.csv.gz filter=lfs diff=lfs merge=lfs -text
-*.xml.gz filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> Stashed changes
