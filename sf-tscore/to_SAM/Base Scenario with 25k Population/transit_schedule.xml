@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE transitSchedule SYSTEM "http://www.matsim.org/files/dtd/transitSchedule_v2.dtd">
+
+<transitSchedule>
+
+	<transitStops>
+		<stopFacility id="citycast-gotransit__28251.link:1202719562_R" x="717314.2797001811" y="21228.864484030797" linkRefId="1202719562_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28252.link:pt_citycast-gotransit__28252" x="717575.0233348667" y="21521.856016063794" linkRefId="pt_citycast-gotransit__28252" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28253.link:pt_citycast-gotransit__28253" x="717776.7634944686" y="21546.396128731834" linkRefId="pt_citycast-gotransit__28253" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28255.link:pt_citycast-gotransit__28255" x="717985.2784850213" y="24351.145025439237" linkRefId="pt_citycast-gotransit__28255" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28256.link:103103875_F" x="718207.3335330588" y="24015.875051098774" linkRefId="103103875_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28257.link:pt_citycast-gotransit__28257" x="718468.7911297171" y="21578.178704343434" linkRefId="pt_citycast-gotransit__28257" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28259.link:pt_citycast-gotransit__28259" x="718004.9952520009" y="21215.4520104819" linkRefId="pt_citycast-gotransit__28259" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28260.link:pt_citycast-gotransit__28260" x="717666.1502697993" y="21290.004516251283" linkRefId="pt_citycast-gotransit__28260" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28261.link:pt_citycast-gotransit__28261" x="717535.3036517659" y="21318.648148831715" linkRefId="pt_citycast-gotransit__28261" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28262.link:103105696_F" x="717281.2204249969" y="21367.745086998304" linkRefId="103105696_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28263.link:103104973_F" x="717249.8754640648" y="22533.556559665878" linkRefId="103104973_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28264.link:pt_citycast-gotransit__28264" x="717334.3174682967" y="22542.19082763655" linkRefId="pt_citycast-gotransit__28264" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28266.link:92696652_F" x="716267.3372982362" y="23920.802608298138" linkRefId="92696652_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28267.link:1220828847_F" x="716605.498000413" y="23929.519957601315" linkRefId="1220828847_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28268.link:pt_citycast-gotransit__28268" x="716935.913637688" y="21945.888492039005" linkRefId="pt_citycast-gotransit__28268" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28269.link:pt_citycast-gotransit__28269" x="717029.1720260936" y="21607.26495942752" linkRefId="pt_citycast-gotransit__28269" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28271.link:103104478_R" x="715972.8793950159" y="23110.591798674424" linkRefId="103104478_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28272.link:103104471_F" x="716292.7250553881" y="23119.076973671035" linkRefId="103104471_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28273.link:103104492_F" x="716623.306815593" y="23127.992505091996" linkRefId="103104492_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28274.link:1220719597_F" x="716818.808324558" y="23131.164967017492" linkRefId="1220719597_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28275.link:92696149_F" x="717023.2350513735" y="23137.393305346373" linkRefId="92696149_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28276.link:1220829813_F" x="717220.3995202553" y="23141.71909570821" linkRefId="1220829813_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28277.link:1187701707_F" x="717418.6579278277" y="23147.62650425188" linkRefId="1187701707_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28278.link:103104507_F" x="717624.2560904899" y="23155.561911221743" linkRefId="103104507_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28279.link:pt_citycast-gotransit__28279" x="716517.7093844218" y="26503.410854422593" linkRefId="pt_citycast-gotransit__28279" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28280.link:pt_citycast-gotransit__28280" x="716263.3421627945" y="24301.482802930826" linkRefId="pt_citycast-gotransit__28280" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28281.link:pt_citycast-gotransit__28281" x="716592.9650193838" y="24333.71928936381" linkRefId="pt_citycast-gotransit__28281" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28282.link:1220719914_R" x="717006.8437908667" y="23942.05784382859" linkRefId="1220719914_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28283.link:1220710860_F" x="717240.5255882415" y="23951.70904533658" linkRefId="1220710860_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28284.link:103103902_F" x="717498.9171862765" y="23960.36995229344" linkRefId="103103902_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28285.link:pt_citycast-gotransit__28285" x="712935.6241187267" y="22800.684235342116" linkRefId="pt_citycast-gotransit__28285" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28286.link:1220711043_F" x="714085.1883149281" y="23162.69434835852" linkRefId="1220711043_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28287.link:1202733737_F" x="714255.3544072324" y="23261.589019078536" linkRefId="1202733737_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28288.link:116065789_F" x="714830.0452476679" y="23335.383305158448" linkRefId="116065789_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28289.link:116065549_R" x="715358.3010987462" y="23332.38856471155" linkRefId="116065549_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28290.link:1048535236" x="716044.3462302934" y="22344.47200012252" linkRefId="1048535236" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28291.link:1048525761" x="716334.4656506882" y="22106.929168199604" linkRefId="1048525761" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28292.link:103105377" x="716523.8322992356" y="21961.72700151799" linkRefId="103105377" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28293.link:1220702484" x="716885.7782433517" y="21687.596570180875" linkRefId="1220702484" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28294.link:92696826_R" x="714118.5029842695" y="20703.740780205422" linkRefId="92696826_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28295.link:108727060_R" x="714551.4288901442" y="20701.45170421791" linkRefId="108727060_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28296.link:103106071_R" x="714899.4894637725" y="20704.02802752872" linkRefId="103106071_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28297.link:1220702430_R" x="715336.591496291" y="20706.08799264175" linkRefId="1220702430_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28298.link:103106094_R" x="715776.8920550976" y="20704.2332725076" linkRefId="103106094_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28299.link:1220703292_R" x="716124.0484024303" y="20703.63602048758" linkRefId="1220703292_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28300.link:108727030_F" x="716667.1775264911" y="20715.345477794373" linkRefId="108727030_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28304.link:pt_citycast-gotransit__28304" x="713900.9465912653" y="22740.709941340803" linkRefId="pt_citycast-gotransit__28304" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28305.link:1220703346_F" x="715269.2386936259" y="20011.518581767006" linkRefId="1220703346_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28306.link:92696515_F" x="715670.9363043151" y="20126.221158106844" linkRefId="92696515_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28307.link:108724334_F" x="715929.6769299638" y="20191.391522264406" linkRefId="108724334_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28308.link:pt_citycast-gotransit__28308" x="716463.8827183857" y="21762.498527998614" linkRefId="pt_citycast-gotransit__28308" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28309.link:pt_citycast-gotransit__28309" x="713243.7735074585" y="20250.484726601706" linkRefId="pt_citycast-gotransit__28309" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28310.link:1220703586_R" x="713447.9746636354" y="21513.09076144856" linkRefId="1220703586_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" x="717103.7584990143" y="21455.571398665783" linkRefId="pt_citycast-gotransit__28313" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28315.link:pt_citycast-gotransit__28315" x="716686.4665476782" y="24944.53150156279" linkRefId="pt_citycast-gotransit__28315" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28318.link:1192800249" x="713644.0334603413" y="21211.332595482058" linkRefId="1192800249" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28321.link:pt_citycast-gotransit__28321" x="714140.4864124142" y="19225.13401612912" linkRefId="pt_citycast-gotransit__28321" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28324.link:pt_citycast-gotransit__28324" x="711004.7618064026" y="18943.329421316153" linkRefId="pt_citycast-gotransit__28324" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28326.link:1220832182_R" x="721358.580429449" y="39396.67534087423" linkRefId="1220832182_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28327.link:pt_citycast-gotransit__28327" x="717528.3946358119" y="21301.51954259836" linkRefId="pt_citycast-gotransit__28327" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28328.link:pt_citycast-gotransit__28328" x="717882.893231835" y="21606.99704754795" linkRefId="pt_citycast-gotransit__28328" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28329.link:pt_citycast-gotransit__28329" x="717877.3509485795" y="21824.502093701267" linkRefId="pt_citycast-gotransit__28329" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28330.link:pt_citycast-gotransit__28330" x="717954.9359247308" y="22048.291650045263" linkRefId="pt_citycast-gotransit__28330" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28331.link:1220706771_F" x="718057.0999263896" y="22353.546466750213" linkRefId="1220706771_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28332.link:pt_citycast-gotransit__28332" x="718051.9053065667" y="22560.3885437304" linkRefId="pt_citycast-gotransit__28332" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28333.link:pt_citycast-gotransit__28333" x="718046.3057348448" y="22851.464741010022" linkRefId="pt_citycast-gotransit__28333" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28334.link:103104533_F" x="718039.4960825938" y="23160.63418342947" linkRefId="103104533_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28335.link:pt_citycast-gotransit__28335" x="718032.907684047" y="23422.241154832438" linkRefId="pt_citycast-gotransit__28335" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28336.link:pt_citycast-gotransit__28336" x="718026.1101363936" y="23713.073176337606" linkRefId="pt_citycast-gotransit__28336" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28337.link:1220702459_F" x="718005.4292878321" y="23969.312226565547" linkRefId="1220702459_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28338.link:pt_citycast-gotransit__28338" x="717992.9584502516" y="24139.79166937383" linkRefId="pt_citycast-gotransit__28338" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28339.link:pt_citycast-gotransit__28339" x="718089.3201665586" y="21067.835494012852" linkRefId="pt_citycast-gotransit__28339" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28340.link:1187702742_F" x="717267.159997413" y="21805.480323496446" linkRefId="1187702742_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28341.link:1187704240_F" x="717260.0960906651" y="22064.07852897115" linkRefId="1187704240_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28342.link:1220828995_F" x="717253.893815999" y="22310.467210073453" linkRefId="1220828995_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28343.link:pt_citycast-gotransit__28343" x="717542.2647293804" y="22691.975683174747" linkRefId="pt_citycast-gotransit__28343" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28344.link:103104507_F" x="717534.2857559216" y="23147.157313341322" linkRefId="103104507_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28345.link:103104303_F" x="717236.2185796278" y="23425.29031104171" linkRefId="103104303_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28346.link:103104050_F" x="717223.7683470494" y="23809.375119946388" linkRefId="103104050_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28347.link:838254375_F" x="716821.1356611485" y="24149.4356606619" linkRefId="838254375_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28348.link:1220717157_F" x="716817.0057023274" y="24334.847598210275" linkRefId="1220717157_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28350.link:pt_citycast-gotransit__28350" x="715778.4362973439" y="21713.375251210004" linkRefId="pt_citycast-gotransit__28350" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28351.link:pt_citycast-gotransit__28351" x="715840.3048769215" y="21756.374065459797" linkRefId="pt_citycast-gotransit__28351" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28354.link:1048525845" x="716399.4112523858" y="22188.219214605175" linkRefId="1048525845" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28355.link:1048535263" x="716221.8861400522" y="22366.86588125445" linkRefId="1048535263" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28356.link:1048522789" x="715987.5111016633" y="22703.428327963342" linkRefId="1048522789" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28359.link:pt_citycast-gotransit__28359" x="717971.5582024909" y="24833.78388330594" linkRefId="pt_citycast-gotransit__28359" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28360.link:pt_citycast-gotransit__28360" x="717970.0226081181" y="25068.809446789775" linkRefId="pt_citycast-gotransit__28360" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28361.link:pt_citycast-gotransit__28361" x="717969.5748001139" y="25301.29856123441" linkRefId="pt_citycast-gotransit__28361" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28362.link:pt_citycast-gotransit__28362" x="717190.1942166272" y="25174.967179098578" linkRefId="pt_citycast-gotransit__28362" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28363.link:pt_citycast-gotransit__28363" x="717170.3430992424" y="25569.587326424084" linkRefId="pt_citycast-gotransit__28363" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28368.link:103106067_F" x="717235.5704973104" y="20865.253138442327" linkRefId="103106067_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28369.link:1220703046_F" x="714878.6277165302" y="21627.197516739416" linkRefId="1220703046_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28370.link:pt_citycast-gotransit__28370" x="713940.078536441" y="19339.873045201744" linkRefId="pt_citycast-gotransit__28370" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28371.link:pt_citycast-gotransit__28371" x="713748.7725167433" y="19728.50375415154" linkRefId="pt_citycast-gotransit__28371" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28372.link:1192797914" x="713740.4340006596" y="20150.783941923924" linkRefId="1192797914" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28373.link:924357953" x="713753.6494524069" y="20482.531742541043" linkRefId="924357953" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28374.link:pt_citycast-gotransit__28374" x="713885.7541592794" y="20643.2089122369" linkRefId="pt_citycast-gotransit__28374" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28375.link:924357962" x="713742.3299276003" y="21011.116148663576" linkRefId="924357962" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28376.link:1192798582" x="713735.3309125899" y="21306.169364887333" linkRefId="1192798582" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28377.link:pt_citycast-gotransit__28377" x="713732.1924305883" y="21843.898320200875" linkRefId="pt_citycast-gotransit__28377" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28378.link:1192798582" x="713732.2157932057" y="22361.233423106438" linkRefId="1192798582" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28379.link:pt_citycast-gotransit__28379" x="714153.9844759948" y="22847.05372813316" linkRefId="pt_citycast-gotransit__28379" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28380.link:pt_citycast-gotransit__28380" x="714293.9489349661" y="23159.466424008027" linkRefId="pt_citycast-gotransit__28380" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28381.link:108724330_F" x="714224.545032767" y="18901.424793068247" linkRefId="108724330_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28382.link:1220705322_F" x="714444.0325371515" y="19204.121790538917" linkRefId="1220705322_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28383.link:92698632_F" x="714627.8810919211" y="19456.632539146627" linkRefId="92698632_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28384.link:1220709944_F" x="716095.0465262475" y="20368.82143618203" linkRefId="1220709944_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28385.link:92696573_F" x="716091.2641437711" y="20697.93915728877" linkRefId="92696573_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28386.link:92696597_F" x="716083.3855748597" y="21013.86970786706" linkRefId="92696597_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28387.link:108726974_F" x="716075.9250778395" y="21315.3599515716" linkRefId="108726974_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28388.link:711763996_F" x="712251.332593504" y="18339.78195714948" linkRefId="711763996_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28389.link:1220715036_F" x="712047.9309153226" y="19291.26322434874" linkRefId="1220715036_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28390.link:103106480_F" x="712041.2458257469" y="19819.706143631567" linkRefId="103106480_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28391.link:116105157_F" x="712035.0171088574" y="20233.02092896367" linkRefId="116105157_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28392.link:1220710084_F" x="712028.2482203962" y="20724.342971477585" linkRefId="1220710084_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28393.link:103105762_F" x="712024.0977276632" y="21072.790478436298" linkRefId="103105762_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28397.link:1187128896_F" x="718400.1976876243" y="23981.92798122294" linkRefId="1187128896_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28398.link:116107097_R" x="718415.6310160295" y="23596.342571184923" linkRefId="116107097_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28399.link:103104420_R" x="718423.278253007" y="23325.864075340265" linkRefId="103104420_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28400.link:108726752_R" x="718430.5179896043" y="23086.607509591497" linkRefId="108726752_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28401.link:116106721_R" x="718438.5697914687" y="22719.0028372775" linkRefId="116106721_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28402.link:1048543373_R" x="718457.3853874522" y="22227.00968629168" linkRefId="1048543373_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28403.link:103105281_R" x="718459.2701302588" y="22145.469636515485" linkRefId="103105281_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28404.link:103105455_R" x="718464.3799751617" y="21794.14828201616" linkRefId="103105455_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28405.link:pt_citycast-gotransit__28405" x="718635.2541808474" y="21461.071041473813" linkRefId="pt_citycast-gotransit__28405" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28406.link:pt_citycast-gotransit__28406" x="718612.528954225" y="21198.485207591948" linkRefId="pt_citycast-gotransit__28406" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28407.link:pt_citycast-gotransit__28407" x="715989.3316963268" y="24252.36116592801" linkRefId="pt_citycast-gotransit__28407" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28408.link:839183098_R" x="716810.6503765236" y="23764.383233953486" linkRefId="839183098_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28409.link:92696211_R" x="716814.8660648606" y="23578.63935199729" linkRefId="92696211_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28410.link:1220719422_R" x="716823.0700119284" y="23148.356420638836" linkRefId="1220719422_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28411.link:92696204_R" x="716830.0181820861" y="22747.83531156748" linkRefId="92696204_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28412.link:92696202_R" x="716833.6975630956" y="22346.255193067016" linkRefId="92696202_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28413.link:pt_citycast-gotransit__28413" x="717169.8996300311" y="21808.95251321074" linkRefId="pt_citycast-gotransit__28413" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28414.link:103104527_F" x="718022.2948654647" y="23162.989532161944" linkRefId="103104527_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28414.link:103104527_R" x="718022.2948654647" y="23162.989532161944" linkRefId="103104527_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28415.link:pt_citycast-gotransit__28415" x="718031.7633033978" y="22870.76105149269" linkRefId="pt_citycast-gotransit__28415" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28416.link:1220827729_R" x="717852.4510155567" y="22340.50274494773" linkRefId="1220827729_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28417.link:pt_citycast-gotransit__28417" x="717860.6543112586" y="22029.135583513806" linkRefId="pt_citycast-gotransit__28417" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28418.link:1187128739_R" x="717866.8314444259" y="21780.968371318195" linkRefId="1187128739_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28419.link:1187627019_R" x="716722.3221770488" y="26386.163007637206" linkRefId="1187627019_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28420.link:1187715115_R" x="716761.3711617403" y="25241.71912276637" linkRefId="1187715115_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28421.link:1220717157_R" x="716785.2510559944" y="24339.834457291043" linkRefId="1220717157_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28422.link:1220717091_R" x="716795.8830685423" y="24171.76529389368" linkRefId="1220717091_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28423.link:1187128695_R" x="717902.7362252956" y="25548.476731285864" linkRefId="1187128695_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28424.link:1187128694_R" x="717773.2219934068" y="25397.430773311688" linkRefId="1187128694_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28425.link:1127325414" x="715587.685228272" y="23129.3011496462" linkRefId="1127325414" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28426.link:103104829" x="715868.377883316" y="22648.18365476734" linkRefId="103104829" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28427.link:1220711755" x="713620.1526853808" y="20980.421157034303" linkRefId="1220711755" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28428.link:pt_citycast-gotransit__28428" x="714432.504231374" y="21941.18913760361" linkRefId="pt_citycast-gotransit__28428" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28429.link:pt_citycast-gotransit__28429" x="714409.642450514" y="21786.4201140698" linkRefId="pt_citycast-gotransit__28429" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28430.link:pt_citycast-gotransit__28430" x="713420.8685991815" y="22953.59709414943" linkRefId="pt_citycast-gotransit__28430" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28431.link:1192800248" x="713648.5377717342" y="21784.869337036616" linkRefId="1192800248" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28433.link:pt_citycast-gotransit__28433" x="713531.9719763921" y="20591.465245156753" linkRefId="pt_citycast-gotransit__28433" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28434.link:1192788359" x="713649.9267098267" y="20165.985146353196" linkRefId="1192788359" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28436.link:pt_citycast-gotransit__28436" x="713970.2394686714" y="18973.319967705072" linkRefId="pt_citycast-gotransit__28436" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28437.link:108726830_R" x="716871.0486240613" y="20913.15674902622" linkRefId="108726830_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28438.link:1220830142_R" x="716876.4924986743" y="20627.745231721117" linkRefId="1220830142_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28439.link:1220707544_R" x="716881.8215290981" y="20187.852031216466" linkRefId="1220707544_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28440.link:92696494_R" x="716890.0730983367" y="19933.720079961477" linkRefId="92696494_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28441.link:92696493_R" x="716895.2445521078" y="19524.942014686974" linkRefId="92696493_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28443.link:pt_citycast-gotransit__28443" x="713244.8566451815" y="20451.102715731613" linkRefId="pt_citycast-gotransit__28443" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28445.link:1192797911" x="713640.8852402024" y="19498.125718278807" linkRefId="1192797911" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28446.link:pt_citycast-gotransit__28446" x="713514.7541613344" y="19218.53196083322" linkRefId="pt_citycast-gotransit__28446" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28447.link:pt_citycast-gotransit__28447" x="713469.8220167604" y="18578.72011692999" linkRefId="pt_citycast-gotransit__28447" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28448.link:pt_citycast-gotransit__28448" x="713567.6486393835" y="18117.323344732533" linkRefId="pt_citycast-gotransit__28448" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28449.link:1192798218" x="713660.3194266856" y="17901.5584956979" linkRefId="1192798218" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28454.link:116088482_R" x="716652.3338525529" y="28313.33602705427" linkRefId="116088482_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28456.link:pt_citycast-gotransit__28456" x="718588.8853674021" y="20959.777133688673" linkRefId="pt_citycast-gotransit__28456" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28457.link:pt_citycast-gotransit__28457" x="718286.2164610875" y="21024.176497240707" linkRefId="pt_citycast-gotransit__28457" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28458.link:pt_citycast-gotransit__28458" x="717528.4828642056" y="23419.669974276683" linkRefId="pt_citycast-gotransit__28458" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28459.link:1220711103_R" x="717167.651365215" y="23969.512063040725" linkRefId="1220711103_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28460.link:pt_citycast-gotransit__28460" x="716726.8601323145" y="24573.9506396452" linkRefId="pt_citycast-gotransit__28460" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28461.link:pt_citycast-gotransit__28461" x="716379.6981011422" y="24568.399473825568" linkRefId="pt_citycast-gotransit__28461" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28462.link:pt_citycast-gotransit__28462" x="716605.2613244888" y="21745.024735900082" linkRefId="pt_citycast-gotransit__28462" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28463.link:103105082_R" x="718044.3175580518" y="22377.43129628442" linkRefId="103105082_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28464.link:pt_citycast-gotransit__28464" x="717872.2650266597" y="21565.017259388882" linkRefId="pt_citycast-gotransit__28464" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28465.link:pt_citycast-gotransit__28465" x="717600.6101041897" y="21552.769548678272" linkRefId="pt_citycast-gotransit__28465" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28466.link:pt_citycast-gotransit__28466" x="717423.5491483602" y="21551.685216440008" linkRefId="pt_citycast-gotransit__28466" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28470.link:pt_citycast-gotransit__28470" x="717025.9630532953" y="26074.76929399522" linkRefId="pt_citycast-gotransit__28470" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28471.link:1220705116_R" x="716700.1329563023" y="26684.942673408055" linkRefId="1220705116_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28472.link:1220702506" x="716977.8783864257" y="21757.155062664333" linkRefId="1220702506" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28473.link:103105363" x="716732.1500687653" y="21931.89592385123" linkRefId="103105363" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28475.link:1220716136" x="715683.0254760014" y="23219.125630169554" linkRefId="1220716136" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28476.link:116065549_F" x="715342.2626087544" y="23350.663976438358" linkRefId="116065549_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28477.link:116090805_R" x="714735.5676462945" y="23350.72087712232" linkRefId="116090805_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28478.link:1202733737_R" x="714229.2113017142" y="23266.464645511347" linkRefId="1202733737_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28479.link:1220711043_R" x="714088.7656109727" y="23187.31795278703" linkRefId="1220711043_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28481.link:1220703013_F" x="715844.8613793083" y="21531.849395567864" linkRefId="1220703013_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28482.link:1187531550_F" x="715590.9348752978" y="21532.781710631058" linkRefId="1187531550_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28483.link:1220703076_F" x="715282.7758360659" y="21534.763826996747" linkRefId="1220703076_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28484.link:1220703296_F" x="714830.512280613" y="21936.194801363225" linkRefId="1220703296_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28485.link:1220702881_F" x="714412.8056090795" y="21537.97670143099" linkRefId="1220702881_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28486.link:842543844_F" x="714039.0872213615" y="21533.08682081818" linkRefId="842543844_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28488.link:930849185_F" x="716818.8344343518" y="19111.032502342852" linkRefId="930849185_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28489.link:92698210_F" x="716587.9988688278" y="19107.451859607096" linkRefId="92698210_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28490.link:92698207_F" x="716215.8949893852" y="19103.024113331805" linkRefId="92698207_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28491.link:92698204_F" x="715810.6412098256" y="19099.472849044425" linkRefId="92698204_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28492.link:1220717371_F" x="715306.4786310828" y="19095.19515327674" linkRefId="1220717371_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28493.link:1220704612_F" x="714717.6854804861" y="19094.9109080599" linkRefId="1220704612_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28494.link:1220704999_F" x="714261.2339950956" y="19110.447738418985" linkRefId="1220704999_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28495.link:1220713812_R" x="713383.1267975684" y="20723.678787379216" linkRefId="1220713812_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28496.link:pt_citycast-gotransit__28496" x="713506.0692056121" y="17479.220994614177" linkRefId="pt_citycast-gotransit__28496" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28497.link:pt_citycast-gotransit__28497" x="713126.5267231845" y="17477.5090057151" linkRefId="pt_citycast-gotransit__28497" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28498.link:pt_citycast-gotransit__28498" x="712655.552103291" y="17477.57140262411" linkRefId="pt_citycast-gotransit__28498" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28503.link:pt_citycast-gotransit__28503" x="711416.857123802" y="19086.395047207192" linkRefId="pt_citycast-gotransit__28503" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__28505.link:pt_citycast-gotransit__28505" x="722827.5893198445" y="40416.42184368015" linkRefId="pt_citycast-gotransit__28505" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758090.link:92696843" x="713649.1673815273" y="22212.75106302769" linkRefId="92696843" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758091.link:103104655" x="715763.3032473333" y="23087.301105513136" linkRefId="103104655" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758973.link:pt_citycast-gotransit__758973" x="716030.4574975935" y="24549.048933016136" linkRefId="pt_citycast-gotransit__758973" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758974.link:1220703351_F" x="715031.5572957752" y="19825.164045574234" linkRefId="1220703351_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758975.link:pt_citycast-gotransit__758975" x="713426.2456754888" y="20191.424831029723" linkRefId="pt_citycast-gotransit__758975" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758976.link:108725694_R" x="712928.074857409" y="21507.05265595319" linkRefId="108725694_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758977.link:pt_citycast-gotransit__758977" x="712790.1524116896" y="17476.12184373447" linkRefId="pt_citycast-gotransit__758977" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758978.link:711763995_F" x="712279.2098704878" y="17858.269216436853" linkRefId="711763995_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__758979.link:1220714626_F" x="712063.6656553581" y="18651.84073058364" linkRefId="1220714626_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__759363.link:pt_citycast-gotransit__759363" x="716658.7469707411" y="25158.304591233013" linkRefId="pt_citycast-gotransit__759363" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__759364.link:pt_citycast-gotransit__759364" x="716583.9001129525" y="24803.884262943735" linkRefId="pt_citycast-gotransit__759364" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__759365.link:pt_citycast-gotransit__759365" x="713428.5719968264" y="19901.29096939759" linkRefId="pt_citycast-gotransit__759365" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__759366.link:pt_citycast-gotransit__759366" x="713489.2924107515" y="19432.023908933985" linkRefId="pt_citycast-gotransit__759366" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__759367.link:1192797911" x="713639.7952150641" y="19482.436598845314" linkRefId="1192797911" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__759368.link:pt_citycast-gotransit__759368" x="712150.796061763" y="20943.721335349645" linkRefId="pt_citycast-gotransit__759368" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__759369.link:pt_citycast-gotransit__759369" x="712638.3944751841" y="22596.491408201917" linkRefId="pt_citycast-gotransit__759369" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__761640.link:1048876277" x="716748.7457976986" y="21789.0500903072" linkRefId="1048876277" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__761641.link:pt_citycast-gotransit__761641" x="713737.4295879619" y="22016.91632297027" linkRefId="pt_citycast-gotransit__761641" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__761642.link:92696654_F" x="716445.8767233646" y="23925.21718995368" linkRefId="92696654_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__761643.link:pt_citycast-gotransit__761643" x="717498.8219382921" y="21553.598973507906" linkRefId="pt_citycast-gotransit__761643" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__766415.link:pt_citycast-gotransit__766415" x="715606.652809244" y="24232.548924120805" linkRefId="pt_citycast-gotransit__766415" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__766416.link:92700128_R" x="715238.0855380297" y="24221.56652896035" linkRefId="92700128_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__766417.link:1220715967_F" x="715604.5395659062" y="23900.215657953537" linkRefId="1220715967_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__766418.link:1187614728_F" x="715989.1536623652" y="23911.5044619622" linkRefId="1187614728_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__766419.link:103106103_F" x="716471.3125425153" y="20710.50532486698" linkRefId="103106103_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__770328.link:pt_citycast-gotransit__770328" x="712805.0840666993" y="22601.934049731102" linkRefId="pt_citycast-gotransit__770328" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__770329.link:92696789_F" x="712687.8107582771" y="21501.889342399318" linkRefId="92696789_F" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771476.link:pt_citycast-gotransit__771476" x="715745.7640708407" y="21818.9290812424" linkRefId="pt_citycast-gotransit__771476" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771477.link:pt_citycast-gotransit__771477" x="715588.8050037228" y="22077.309591381792" linkRefId="pt_citycast-gotransit__771477" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771478.link:pt_citycast-gotransit__771478" x="715078.1161225107" y="22387.221270676255" linkRefId="pt_citycast-gotransit__771478" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771479.link:116090446" x="714885.6461731237" y="22388.26700547846" linkRefId="116090446" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771480.link:116090444" x="714881.0579283527" y="22648.24330479878" linkRefId="116090444" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771481.link:116090441" x="714876.1951741468" y="22923.773688654455" linkRefId="116090441" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771482.link:116090456" x="714872.8814429974" y="23111.534282125434" linkRefId="116090456" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771483.link:1220717373_R" x="715366.0757914572" y="23332.52636710758" linkRefId="1220717373_R" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__771484.link:116065559" x="715730.7871016216" y="23112.284107351195" linkRefId="116065559" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__781030.link:pt_citycast-gotransit__781030" x="718129.3318378839" y="24373.429507809116" linkRefId="pt_citycast-gotransit__781030" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__781031.link:pt_citycast-gotransit__781031" x="718118.6074237846" y="24080.94595927085" linkRefId="pt_citycast-gotransit__781031" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__781032.link:pt_citycast-gotransit__781032" x="718113.3847659113" y="24368.694589774776" linkRefId="pt_citycast-gotransit__781032" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__781903.link:pt_citycast-gotransit__781903" x="716569.4262331913" y="21502.43954642266" linkRefId="pt_citycast-gotransit__781903" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__794888.link:pt_citycast-gotransit__794888" x="717040.6167901101" y="20720.713755240697" linkRefId="pt_citycast-gotransit__794888" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__806528.link:pt_citycast-gotransit__806528" x="713384.6687537923" y="18326.626745255177" linkRefId="pt_citycast-gotransit__806528" isBlocking="false"/>
+		<stopFacility id="citycast-gotransit__819946.link:1187541920_F" x="717849.8161510389" y="23969.493135475746" linkRefId="1187541920_F" isBlocking="false"/>
+	</transitStops>
+	<minimalTransferTimes>
+		<relation fromStop="citycast-gotransit__28414.link:103104527_R" toStop="citycast-gotransit__28414.link:103104527_F" transferTime="0.0"/>
+		<relation fromStop="citycast-gotransit__28414.link:103104527_F" toStop="citycast-gotransit__28414.link:103104527_R" transferTime="0.0"/>
+	</minimalTransferTimes>
+	<transitLine id="citycast-gotransit__957__0">
+		<transitRoute id="citycast-gotransit__957__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__781030.link:pt_citycast-gotransit__781030" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28256.link:103103875_F" arrivalOffset="00:01:01" departureOffset="00:01:21" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28397.link:1187128896_F" arrivalOffset="00:01:43" departureOffset="00:02:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28398.link:116107097_R" arrivalOffset="00:02:47" departureOffset="00:03:07" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28399.link:103104420_R" arrivalOffset="00:03:38" departureOffset="00:03:58" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28400.link:108726752_R" arrivalOffset="00:04:25" departureOffset="00:04:45" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28401.link:116106721_R" arrivalOffset="00:05:27" departureOffset="00:05:47" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28402.link:1048543373_R" arrivalOffset="00:06:43" departureOffset="00:07:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28403.link:103105281_R" arrivalOffset="00:07:13" departureOffset="00:07:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28404.link:103105455_R" arrivalOffset="00:08:13" departureOffset="00:08:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28257.link:pt_citycast-gotransit__28257" arrivalOffset="00:08:58" departureOffset="00:09:18" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28405.link:pt_citycast-gotransit__28405" arrivalOffset="00:09:41" departureOffset="00:10:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28406.link:pt_citycast-gotransit__28406" arrivalOffset="00:10:31" departureOffset="00:10:51" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28456.link:pt_citycast-gotransit__28456" arrivalOffset="00:11:18" departureOffset="00:11:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28457.link:pt_citycast-gotransit__28457" arrivalOffset="00:12:13" departureOffset="00:12:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28339.link:pt_citycast-gotransit__28339" arrivalOffset="00:12:56" departureOffset="00:13:16" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28259.link:pt_citycast-gotransit__28259" arrivalOffset="00:13:36" departureOffset="00:13:56" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28260.link:pt_citycast-gotransit__28260" arrivalOffset="00:14:35" departureOffset="00:14:55" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28261.link:pt_citycast-gotransit__28261" arrivalOffset="00:15:10" departureOffset="00:15:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28262.link:103105696_F" arrivalOffset="00:15:59" departureOffset="00:16:19" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:16:42" departureOffset="00:17:02" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__781030"/>
+				<link refId="pt_citycast-gotransit__781030_103103875_F"/>
+				<link refId="103103875_F"/>
+				<link refId="103103873_R"/>
+				<link refId="1187128895_F"/>
+				<link refId="1187128896_F"/>
+				<link refId="103103987_R"/>
+				<link refId="116107100_R"/>
+				<link refId="116107099_R"/>
+				<link refId="116107098_R"/>
+				<link refId="116107097_R"/>
+				<link refId="103104285_R"/>
+				<link refId="103104420_R"/>
+				<link refId="103104518_R"/>
+				<link refId="108726752_R"/>
+				<link refId="108726751_R"/>
+				<link refId="1187603193_R"/>
+				<link refId="1187603192_R"/>
+				<link refId="1187128709_R"/>
+				<link refId="1187128708_R"/>
+				<link refId="116106721_R"/>
+				<link refId="116107092_R"/>
+				<link refId="116107091_R"/>
+				<link refId="1220702501_R"/>
+				<link refId="1220702500_R"/>
+				<link refId="1220702389_R"/>
+				<link refId="1048543371_R"/>
+				<link refId="1048543374_R"/>
+				<link refId="1048543373_R"/>
+				<link refId="103105281_R"/>
+				<link refId="103105455_R"/>
+				<link refId="pt_103105455_R_citycast-gotransit__28257"/>
+				<link refId="pt_citycast-gotransit__28257"/>
+				<link refId="pt_citycast-gotransit__28257_pt_citycast-gotransit__28405"/>
+				<link refId="pt_citycast-gotransit__28405"/>
+				<link refId="pt_citycast-gotransit__28405_pt_citycast-gotransit__28406"/>
+				<link refId="pt_citycast-gotransit__28406"/>
+				<link refId="pt_citycast-gotransit__28406_pt_citycast-gotransit__28456"/>
+				<link refId="pt_citycast-gotransit__28456"/>
+				<link refId="pt_citycast-gotransit__28456_pt_citycast-gotransit__28457"/>
+				<link refId="pt_citycast-gotransit__28457"/>
+				<link refId="pt_citycast-gotransit__28457_pt_citycast-gotransit__28339"/>
+				<link refId="pt_citycast-gotransit__28339"/>
+				<link refId="pt_citycast-gotransit__28339_pt_citycast-gotransit__28259"/>
+				<link refId="pt_citycast-gotransit__28259"/>
+				<link refId="pt_citycast-gotransit__28259_pt_citycast-gotransit__28260"/>
+				<link refId="pt_citycast-gotransit__28260"/>
+				<link refId="pt_citycast-gotransit__28260_pt_citycast-gotransit__28261"/>
+				<link refId="pt_citycast-gotransit__28261"/>
+				<link refId="pt_citycast-gotransit__28261_103105696_F"/>
+				<link refId="103105696_F"/>
+				<link refId="pt_103105696_F_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__957__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_0_bus"/>
+				<departure id="citycast-gotransit__957__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_1_bus"/>
+				<departure id="citycast-gotransit__957__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_2_bus"/>
+				<departure id="citycast-gotransit__957__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_3_bus"/>
+				<departure id="citycast-gotransit__957__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_4_bus"/>
+				<departure id="citycast-gotransit__957__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_5_bus"/>
+				<departure id="citycast-gotransit__957__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_6_bus"/>
+				<departure id="citycast-gotransit__957__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_7_bus"/>
+				<departure id="citycast-gotransit__957__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_8_bus"/>
+				<departure id="citycast-gotransit__957__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_9_bus"/>
+				<departure id="citycast-gotransit__957__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_10_bus"/>
+				<departure id="citycast-gotransit__957__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_11_bus"/>
+				<departure id="citycast-gotransit__957__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_12_bus"/>
+				<departure id="citycast-gotransit__957__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_13_bus"/>
+				<departure id="citycast-gotransit__957__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_14_bus"/>
+				<departure id="citycast-gotransit__957__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_15_bus"/>
+				<departure id="citycast-gotransit__957__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_16_bus"/>
+				<departure id="citycast-gotransit__957__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_17_bus"/>
+				<departure id="citycast-gotransit__957__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_18_bus"/>
+				<departure id="citycast-gotransit__957__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_19_bus"/>
+				<departure id="citycast-gotransit__957__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_20_bus"/>
+				<departure id="citycast-gotransit__957__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_21_bus"/>
+				<departure id="citycast-gotransit__957__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_22_bus"/>
+				<departure id="citycast-gotransit__957__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_23_bus"/>
+				<departure id="citycast-gotransit__957__0_18:15:00" departureTime="18:15:00" vehicleRefId="veh_24_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__957__1">
+		<transitRoute id="citycast-gotransit__957__1">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28251.link:1202719562_R" arrivalOffset="00:00:55" departureOffset="00:01:15" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28327.link:pt_citycast-gotransit__28327" arrivalOffset="00:01:41" departureOffset="00:02:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28252.link:pt_citycast-gotransit__28252" arrivalOffset="00:02:27" departureOffset="00:02:47" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28253.link:pt_citycast-gotransit__28253" arrivalOffset="00:03:10" departureOffset="00:03:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28328.link:pt_citycast-gotransit__28328" arrivalOffset="00:03:44" departureOffset="00:04:04" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28329.link:pt_citycast-gotransit__28329" arrivalOffset="00:04:29" departureOffset="00:04:49" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28330.link:pt_citycast-gotransit__28330" arrivalOffset="00:05:16" departureOffset="00:05:36" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28331.link:1220706771_F" arrivalOffset="00:06:13" departureOffset="00:06:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28332.link:pt_citycast-gotransit__28332" arrivalOffset="00:06:57" departureOffset="00:07:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28333.link:pt_citycast-gotransit__28333" arrivalOffset="00:07:50" departureOffset="00:08:10" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28334.link:103104533_F" arrivalOffset="00:08:45" departureOffset="00:09:05" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28335.link:pt_citycast-gotransit__28335" arrivalOffset="00:09:35" departureOffset="00:09:55" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28336.link:pt_citycast-gotransit__28336" arrivalOffset="00:10:28" departureOffset="00:10:48" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28337.link:1220702459_F" arrivalOffset="00:11:17" departureOffset="00:11:37" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28338.link:pt_citycast-gotransit__28338" arrivalOffset="00:11:57" departureOffset="00:12:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28255.link:pt_citycast-gotransit__28255" arrivalOffset="00:12:41" departureOffset="00:13:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__781030.link:pt_citycast-gotransit__781030" arrivalOffset="00:13:18" departureOffset="00:13:38" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313_1202719562_R"/>
+				<link refId="1202719562_R"/>
+				<link refId="pt_1202719562_R_citycast-gotransit__28327"/>
+				<link refId="pt_citycast-gotransit__28327"/>
+				<link refId="pt_citycast-gotransit__28327_pt_citycast-gotransit__28252"/>
+				<link refId="pt_citycast-gotransit__28252"/>
+				<link refId="pt_citycast-gotransit__28252_pt_citycast-gotransit__28253"/>
+				<link refId="pt_citycast-gotransit__28253"/>
+				<link refId="pt_citycast-gotransit__28253_pt_citycast-gotransit__28328"/>
+				<link refId="pt_citycast-gotransit__28328"/>
+				<link refId="pt_citycast-gotransit__28328_pt_citycast-gotransit__28329"/>
+				<link refId="pt_citycast-gotransit__28329"/>
+				<link refId="pt_citycast-gotransit__28329_pt_citycast-gotransit__28330"/>
+				<link refId="pt_citycast-gotransit__28330"/>
+				<link refId="pt_citycast-gotransit__28330_1220706771_F"/>
+				<link refId="1220706771_F"/>
+				<link refId="pt_1220706771_F_citycast-gotransit__28332"/>
+				<link refId="pt_citycast-gotransit__28332"/>
+				<link refId="pt_citycast-gotransit__28332_pt_citycast-gotransit__28333"/>
+				<link refId="pt_citycast-gotransit__28333"/>
+				<link refId="pt_citycast-gotransit__28333_103104533_F"/>
+				<link refId="103104533_F"/>
+				<link refId="pt_103104533_F_citycast-gotransit__28335"/>
+				<link refId="pt_citycast-gotransit__28335"/>
+				<link refId="pt_citycast-gotransit__28335_pt_citycast-gotransit__28336"/>
+				<link refId="pt_citycast-gotransit__28336"/>
+				<link refId="pt_citycast-gotransit__28336_1220702459_F"/>
+				<link refId="1220702459_F"/>
+				<link refId="pt_1220702459_F_citycast-gotransit__28338"/>
+				<link refId="pt_citycast-gotransit__28338"/>
+				<link refId="pt_citycast-gotransit__28338_pt_citycast-gotransit__28255"/>
+				<link refId="pt_citycast-gotransit__28255"/>
+				<link refId="pt_citycast-gotransit__28255_pt_citycast-gotransit__781030"/>
+				<link refId="pt_citycast-gotransit__781030"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__957__1_06:30:00" departureTime="06:30:00" vehicleRefId="veh_25_bus"/>
+				<departure id="citycast-gotransit__957__1_07:00:00" departureTime="07:00:00" vehicleRefId="veh_26_bus"/>
+				<departure id="citycast-gotransit__957__1_07:30:00" departureTime="07:30:00" vehicleRefId="veh_27_bus"/>
+				<departure id="citycast-gotransit__957__1_08:00:00" departureTime="08:00:00" vehicleRefId="veh_28_bus"/>
+				<departure id="citycast-gotransit__957__1_08:30:00" departureTime="08:30:00" vehicleRefId="veh_29_bus"/>
+				<departure id="citycast-gotransit__957__1_09:00:00" departureTime="09:00:00" vehicleRefId="veh_30_bus"/>
+				<departure id="citycast-gotransit__957__1_09:30:00" departureTime="09:30:00" vehicleRefId="veh_31_bus"/>
+				<departure id="citycast-gotransit__957__1_10:00:00" departureTime="10:00:00" vehicleRefId="veh_32_bus"/>
+				<departure id="citycast-gotransit__957__1_10:30:00" departureTime="10:30:00" vehicleRefId="veh_33_bus"/>
+				<departure id="citycast-gotransit__957__1_11:00:00" departureTime="11:00:00" vehicleRefId="veh_34_bus"/>
+				<departure id="citycast-gotransit__957__1_11:30:00" departureTime="11:30:00" vehicleRefId="veh_35_bus"/>
+				<departure id="citycast-gotransit__957__1_12:00:00" departureTime="12:00:00" vehicleRefId="veh_36_bus"/>
+				<departure id="citycast-gotransit__957__1_12:30:00" departureTime="12:30:00" vehicleRefId="veh_37_bus"/>
+				<departure id="citycast-gotransit__957__1_13:00:00" departureTime="13:00:00" vehicleRefId="veh_38_bus"/>
+				<departure id="citycast-gotransit__957__1_13:30:00" departureTime="13:30:00" vehicleRefId="veh_39_bus"/>
+				<departure id="citycast-gotransit__957__1_14:00:00" departureTime="14:00:00" vehicleRefId="veh_40_bus"/>
+				<departure id="citycast-gotransit__957__1_14:30:00" departureTime="14:30:00" vehicleRefId="veh_41_bus"/>
+				<departure id="citycast-gotransit__957__1_15:00:00" departureTime="15:00:00" vehicleRefId="veh_42_bus"/>
+				<departure id="citycast-gotransit__957__1_15:30:00" departureTime="15:30:00" vehicleRefId="veh_43_bus"/>
+				<departure id="citycast-gotransit__957__1_16:00:00" departureTime="16:00:00" vehicleRefId="veh_44_bus"/>
+				<departure id="citycast-gotransit__957__1_16:30:00" departureTime="16:30:00" vehicleRefId="veh_45_bus"/>
+				<departure id="citycast-gotransit__957__1_17:00:00" departureTime="17:00:00" vehicleRefId="veh_46_bus"/>
+				<departure id="citycast-gotransit__957__1_17:30:00" departureTime="17:30:00" vehicleRefId="veh_47_bus"/>
+				<departure id="citycast-gotransit__957__1_18:00:00" departureTime="18:00:00" vehicleRefId="veh_48_bus"/>
+				<departure id="citycast-gotransit__957__1_18:30:00" departureTime="18:30:00" vehicleRefId="veh_49_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__958__0">
+		<transitRoute id="citycast-gotransit__958__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28461.link:pt_citycast-gotransit__28461" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758973.link:pt_citycast-gotransit__758973" arrivalOffset="00:01:00" departureOffset="00:01:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28407.link:pt_citycast-gotransit__28407" arrivalOffset="00:01:54" departureOffset="00:02:14" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__766415.link:pt_citycast-gotransit__766415" arrivalOffset="00:02:57" departureOffset="00:03:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__766416.link:92700128_R" arrivalOffset="00:03:59" departureOffset="00:04:19" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__766417.link:1220715967_F" arrivalOffset="00:05:14" departureOffset="00:05:34" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__766418.link:1187614728_F" arrivalOffset="00:06:18" departureOffset="00:06:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28266.link:92696652_F" arrivalOffset="00:07:10" departureOffset="00:07:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__761642.link:92696654_F" arrivalOffset="00:07:50" departureOffset="00:08:10" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28267.link:1220828847_F" arrivalOffset="00:08:28" departureOffset="00:08:48" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28408.link:839183098_R" arrivalOffset="00:09:18" departureOffset="00:09:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28409.link:92696211_R" arrivalOffset="00:09:59" departureOffset="00:10:19" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28410.link:1220719422_R" arrivalOffset="00:11:08" departureOffset="00:11:28" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28411.link:92696204_R" arrivalOffset="00:12:13" departureOffset="00:12:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28412.link:92696202_R" arrivalOffset="00:13:18" departureOffset="00:13:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28268.link:pt_citycast-gotransit__28268" arrivalOffset="00:14:25" departureOffset="00:14:45" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28413.link:pt_citycast-gotransit__28413" arrivalOffset="00:15:16" departureOffset="00:15:36" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28269.link:pt_citycast-gotransit__28269" arrivalOffset="00:16:04" departureOffset="00:16:24" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:16:43" departureOffset="00:17:03" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28461"/>
+				<link refId="pt_citycast-gotransit__28461_pt_citycast-gotransit__758973"/>
+				<link refId="pt_citycast-gotransit__758973"/>
+				<link refId="pt_citycast-gotransit__758973_pt_citycast-gotransit__28407"/>
+				<link refId="pt_citycast-gotransit__28407"/>
+				<link refId="pt_citycast-gotransit__28407_pt_citycast-gotransit__766415"/>
+				<link refId="pt_citycast-gotransit__766415"/>
+				<link refId="pt_citycast-gotransit__766415_92700128_R"/>
+				<link refId="92700128_R"/>
+				<link refId="111848689_R"/>
+				<link refId="111848701_R"/>
+				<link refId="111848690_R"/>
+				<link refId="1187700760_R"/>
+				<link refId="1220718525_R"/>
+				<link refId="1220718524_R"/>
+				<link refId="92696643_F"/>
+				<link refId="1220715966_F"/>
+				<link refId="1220715967_F"/>
+				<link refId="1220716272_F"/>
+				<link refId="1220716273_F"/>
+				<link refId="1220830291_F"/>
+				<link refId="1220830292_F"/>
+				<link refId="1220830293_F"/>
+				<link refId="1220830294_F"/>
+				<link refId="1187614727_F"/>
+				<link refId="1187614728_F"/>
+				<link refId="1187177581_F"/>
+				<link refId="1187614733_F"/>
+				<link refId="1187614734_F"/>
+				<link refId="92696651_F"/>
+				<link refId="92696652_F"/>
+				<link refId="92696653_F"/>
+				<link refId="92696654_F"/>
+				<link refId="92696655_F"/>
+				<link refId="1220828846_F"/>
+				<link refId="1220828847_F"/>
+				<link refId="839183100_F"/>
+				<link refId="1220718026_F"/>
+				<link refId="1220829161_F"/>
+				<link refId="1220829162_F"/>
+				<link refId="838254376"/>
+				<link refId="1220716578_R"/>
+				<link refId="1220716577_R"/>
+				<link refId="839183099_R"/>
+				<link refId="839183098_R"/>
+				<link refId="92696213_R"/>
+				<link refId="92696212_R"/>
+				<link refId="92696211_R"/>
+				<link refId="116107104_R"/>
+				<link refId="116107103_R"/>
+				<link refId="92696209_R"/>
+				<link refId="1187420112_R"/>
+				<link refId="1220719423_R"/>
+				<link refId="1220719422_R"/>
+				<link refId="92696207_R"/>
+				<link refId="92696206_R"/>
+				<link refId="92696205_R"/>
+				<link refId="92696204_R"/>
+				<link refId="92696203_R"/>
+				<link refId="92696202_R"/>
+				<link refId="pt_92696202_R_citycast-gotransit__28268"/>
+				<link refId="pt_citycast-gotransit__28268"/>
+				<link refId="pt_citycast-gotransit__28268_pt_citycast-gotransit__28413"/>
+				<link refId="pt_citycast-gotransit__28413"/>
+				<link refId="pt_citycast-gotransit__28413_pt_citycast-gotransit__28269"/>
+				<link refId="pt_citycast-gotransit__28269"/>
+				<link refId="pt_citycast-gotransit__28269_pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__958__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_50_bus"/>
+				<departure id="citycast-gotransit__958__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_51_bus"/>
+				<departure id="citycast-gotransit__958__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_52_bus"/>
+				<departure id="citycast-gotransit__958__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_53_bus"/>
+				<departure id="citycast-gotransit__958__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_54_bus"/>
+				<departure id="citycast-gotransit__958__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_55_bus"/>
+				<departure id="citycast-gotransit__958__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_56_bus"/>
+				<departure id="citycast-gotransit__958__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_57_bus"/>
+				<departure id="citycast-gotransit__958__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_58_bus"/>
+				<departure id="citycast-gotransit__958__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_59_bus"/>
+				<departure id="citycast-gotransit__958__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_60_bus"/>
+				<departure id="citycast-gotransit__958__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_61_bus"/>
+				<departure id="citycast-gotransit__958__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_62_bus"/>
+				<departure id="citycast-gotransit__958__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_63_bus"/>
+				<departure id="citycast-gotransit__958__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_64_bus"/>
+				<departure id="citycast-gotransit__958__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_65_bus"/>
+				<departure id="citycast-gotransit__958__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_66_bus"/>
+				<departure id="citycast-gotransit__958__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_67_bus"/>
+				<departure id="citycast-gotransit__958__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_68_bus"/>
+				<departure id="citycast-gotransit__958__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_69_bus"/>
+				<departure id="citycast-gotransit__958__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_70_bus"/>
+				<departure id="citycast-gotransit__958__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_71_bus"/>
+				<departure id="citycast-gotransit__958__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_72_bus"/>
+				<departure id="citycast-gotransit__958__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_73_bus"/>
+				<departure id="citycast-gotransit__958__0_18:15:00" departureTime="18:15:00" vehicleRefId="veh_74_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__958__1">
+		<transitRoute id="citycast-gotransit__958__1">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28340.link:1187702742_F" arrivalOffset="00:01:04" departureOffset="00:01:24" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28341.link:1187704240_F" arrivalOffset="00:01:53" departureOffset="00:02:13" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28342.link:1220828995_F" arrivalOffset="00:02:41" departureOffset="00:03:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28263.link:103104973_F" arrivalOffset="00:03:26" departureOffset="00:03:46" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28264.link:pt_citycast-gotransit__28264" arrivalOffset="00:03:56" departureOffset="00:04:16" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28343.link:pt_citycast-gotransit__28343" arrivalOffset="00:04:45" departureOffset="00:05:05" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28344.link:103104507_F" arrivalOffset="00:05:56" departureOffset="00:06:16" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28458.link:pt_citycast-gotransit__28458" arrivalOffset="00:06:47" departureOffset="00:07:07" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28345.link:103104303_F" arrivalOffset="00:07:40" departureOffset="00:08:00" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28346.link:103104050_F" arrivalOffset="00:08:43" departureOffset="00:09:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28459.link:1220711103_R" arrivalOffset="00:09:22" departureOffset="00:09:42" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28347.link:838254375_F" arrivalOffset="00:10:26" departureOffset="00:10:46" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28348.link:1220717157_F" arrivalOffset="00:11:07" departureOffset="00:11:27" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28460.link:pt_citycast-gotransit__28460" arrivalOffset="00:11:56" departureOffset="00:12:16" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28461.link:pt_citycast-gotransit__28461" arrivalOffset="00:12:55" departureOffset="00:13:15" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313_1187702742_F"/>
+				<link refId="1187702742_F"/>
+				<link refId="1187702743_F"/>
+				<link refId="1187702741_F"/>
+				<link refId="1187704240_F"/>
+				<link refId="1220828994_F"/>
+				<link refId="1220828995_F"/>
+				<link refId="1220828850_F"/>
+				<link refId="1220828851_F"/>
+				<link refId="108726456_F"/>
+				<link refId="103105007_F"/>
+				<link refId="103104973_F"/>
+				<link refId="pt_103104973_F_citycast-gotransit__28264"/>
+				<link refId="pt_citycast-gotransit__28264"/>
+				<link refId="pt_citycast-gotransit__28264_pt_citycast-gotransit__28343"/>
+				<link refId="pt_citycast-gotransit__28343"/>
+				<link refId="pt_citycast-gotransit__28343_103104507_F"/>
+				<link refId="103104507_F"/>
+				<link refId="pt_103104507_F_citycast-gotransit__28458"/>
+				<link refId="pt_citycast-gotransit__28458"/>
+				<link refId="pt_citycast-gotransit__28458_103104303_F"/>
+				<link refId="103104303_F"/>
+				<link refId="103104187_F"/>
+				<link refId="103104050_F"/>
+				<link refId="103103992_F"/>
+				<link refId="1220711103_R"/>
+				<link refId="1220711102_R"/>
+				<link refId="103103904_R"/>
+				<link refId="1220719914_F"/>
+				<link refId="1220719915_F"/>
+				<link refId="1220716597_R"/>
+				<link refId="1220716596_R"/>
+				<link refId="1187703616_F"/>
+				<link refId="838254373"/>
+				<link refId="1187177868_F"/>
+				<link refId="1220830010_F"/>
+				<link refId="1220830011_F"/>
+				<link refId="838254375_F"/>
+				<link refId="1220717091_F"/>
+				<link refId="1220717092_F"/>
+				<link refId="1220717099_F"/>
+				<link refId="1220717156_F"/>
+				<link refId="1220717157_F"/>
+				<link refId="pt_1220717157_F_citycast-gotransit__28460"/>
+				<link refId="pt_citycast-gotransit__28460"/>
+				<link refId="pt_citycast-gotransit__28460_pt_citycast-gotransit__28461"/>
+				<link refId="pt_citycast-gotransit__28461"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__958__1_06:30:00" departureTime="06:30:00" vehicleRefId="veh_75_bus"/>
+				<departure id="citycast-gotransit__958__1_07:00:00" departureTime="07:00:00" vehicleRefId="veh_76_bus"/>
+				<departure id="citycast-gotransit__958__1_07:30:00" departureTime="07:30:00" vehicleRefId="veh_77_bus"/>
+				<departure id="citycast-gotransit__958__1_08:00:00" departureTime="08:00:00" vehicleRefId="veh_78_bus"/>
+				<departure id="citycast-gotransit__958__1_08:30:00" departureTime="08:30:00" vehicleRefId="veh_79_bus"/>
+				<departure id="citycast-gotransit__958__1_09:00:00" departureTime="09:00:00" vehicleRefId="veh_80_bus"/>
+				<departure id="citycast-gotransit__958__1_09:30:00" departureTime="09:30:00" vehicleRefId="veh_81_bus"/>
+				<departure id="citycast-gotransit__958__1_10:00:00" departureTime="10:00:00" vehicleRefId="veh_82_bus"/>
+				<departure id="citycast-gotransit__958__1_10:30:00" departureTime="10:30:00" vehicleRefId="veh_83_bus"/>
+				<departure id="citycast-gotransit__958__1_11:00:00" departureTime="11:00:00" vehicleRefId="veh_84_bus"/>
+				<departure id="citycast-gotransit__958__1_11:30:00" departureTime="11:30:00" vehicleRefId="veh_85_bus"/>
+				<departure id="citycast-gotransit__958__1_12:00:00" departureTime="12:00:00" vehicleRefId="veh_86_bus"/>
+				<departure id="citycast-gotransit__958__1_12:30:00" departureTime="12:30:00" vehicleRefId="veh_87_bus"/>
+				<departure id="citycast-gotransit__958__1_13:00:00" departureTime="13:00:00" vehicleRefId="veh_88_bus"/>
+				<departure id="citycast-gotransit__958__1_13:30:00" departureTime="13:30:00" vehicleRefId="veh_89_bus"/>
+				<departure id="citycast-gotransit__958__1_14:00:00" departureTime="14:00:00" vehicleRefId="veh_90_bus"/>
+				<departure id="citycast-gotransit__958__1_14:30:00" departureTime="14:30:00" vehicleRefId="veh_91_bus"/>
+				<departure id="citycast-gotransit__958__1_15:00:00" departureTime="15:00:00" vehicleRefId="veh_92_bus"/>
+				<departure id="citycast-gotransit__958__1_15:30:00" departureTime="15:30:00" vehicleRefId="veh_93_bus"/>
+				<departure id="citycast-gotransit__958__1_16:00:00" departureTime="16:00:00" vehicleRefId="veh_94_bus"/>
+				<departure id="citycast-gotransit__958__1_16:30:00" departureTime="16:30:00" vehicleRefId="veh_95_bus"/>
+				<departure id="citycast-gotransit__958__1_17:00:00" departureTime="17:00:00" vehicleRefId="veh_96_bus"/>
+				<departure id="citycast-gotransit__958__1_17:30:00" departureTime="17:30:00" vehicleRefId="veh_97_bus"/>
+				<departure id="citycast-gotransit__958__1_18:00:00" departureTime="18:00:00" vehicleRefId="veh_98_bus"/>
+				<departure id="citycast-gotransit__958__1_18:30:00" departureTime="18:30:00" vehicleRefId="veh_99_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__959__0">
+		<transitRoute id="citycast-gotransit__959__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28414.link:103104527_R" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28415.link:pt_citycast-gotransit__28415" arrivalOffset="00:00:53" departureOffset="00:01:13" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28463.link:103105082_R" arrivalOffset="00:02:09" departureOffset="00:02:29" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28416.link:1220827729_R" arrivalOffset="00:02:51" departureOffset="00:03:11" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28417.link:pt_citycast-gotransit__28417" arrivalOffset="00:03:46" departureOffset="00:04:06" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28418.link:1187128739_R" arrivalOffset="00:04:34" departureOffset="00:04:54" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28464.link:pt_citycast-gotransit__28464" arrivalOffset="00:05:19" departureOffset="00:05:39" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28465.link:pt_citycast-gotransit__28465" arrivalOffset="00:06:10" departureOffset="00:06:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__761643.link:pt_citycast-gotransit__761643" arrivalOffset="00:06:42" departureOffset="00:07:02" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28466.link:pt_citycast-gotransit__28466" arrivalOffset="00:07:11" departureOffset="00:07:31" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:08:09" departureOffset="00:08:29" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28462.link:pt_citycast-gotransit__28462" arrivalOffset="00:09:34" departureOffset="00:09:54" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28481.link:1220703013_F" arrivalOffset="00:11:23" departureOffset="00:11:43" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28350.link:pt_citycast-gotransit__28350" arrivalOffset="00:12:05" departureOffset="00:12:25" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28351.link:pt_citycast-gotransit__28351" arrivalOffset="00:12:34" departureOffset="00:12:54" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771476.link:pt_citycast-gotransit__771476" arrivalOffset="00:13:07" departureOffset="00:13:27" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771477.link:pt_citycast-gotransit__771477" arrivalOffset="00:14:01" departureOffset="00:14:21" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771478.link:pt_citycast-gotransit__771478" arrivalOffset="00:15:28" departureOffset="00:15:48" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771479.link:116090446" arrivalOffset="00:16:10" departureOffset="00:16:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771480.link:116090444" arrivalOffset="00:17:00" departureOffset="00:17:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771481.link:116090441" arrivalOffset="00:17:51" departureOffset="00:18:11" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771482.link:116090456" arrivalOffset="00:18:33" departureOffset="00:18:53" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771483.link:1220717373_R" arrivalOffset="00:19:54" departureOffset="00:20:14" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__771484.link:116065559" arrivalOffset="00:21:02" departureOffset="00:21:22" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28271.link:103104478_R" arrivalOffset="00:21:50" departureOffset="00:22:10" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28272.link:103104471_F" arrivalOffset="00:22:46" departureOffset="00:23:06" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28273.link:103104492_F" arrivalOffset="00:23:43" departureOffset="00:24:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28274.link:1220719597_F" arrivalOffset="00:24:25" departureOffset="00:24:45" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28275.link:92696149_F" arrivalOffset="00:25:08" departureOffset="00:25:28" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28276.link:1220829813_F" arrivalOffset="00:25:51" departureOffset="00:26:11" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28277.link:1187701707_F" arrivalOffset="00:26:34" departureOffset="00:26:54" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28278.link:103104507_F" arrivalOffset="00:27:18" departureOffset="00:27:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28414.link:103104527_F" arrivalOffset="00:28:23" departureOffset="00:28:43" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="103104527_R"/>
+				<link refId="pt_103104527_R_citycast-gotransit__28415"/>
+				<link refId="pt_citycast-gotransit__28415"/>
+				<link refId="pt_citycast-gotransit__28415_103105082_R"/>
+				<link refId="103105082_R"/>
+				<link refId="103105078_R"/>
+				<link refId="103105103_R"/>
+				<link refId="1220827729_R"/>
+				<link refId="pt_1220827729_R_citycast-gotransit__28417"/>
+				<link refId="pt_citycast-gotransit__28417"/>
+				<link refId="pt_citycast-gotransit__28417_1187128739_R"/>
+				<link refId="1187128739_R"/>
+				<link refId="pt_1187128739_R_citycast-gotransit__28464"/>
+				<link refId="pt_citycast-gotransit__28464"/>
+				<link refId="pt_citycast-gotransit__28464_pt_citycast-gotransit__28465"/>
+				<link refId="pt_citycast-gotransit__28465"/>
+				<link refId="pt_citycast-gotransit__28465_pt_citycast-gotransit__761643"/>
+				<link refId="pt_citycast-gotransit__761643"/>
+				<link refId="pt_citycast-gotransit__761643_pt_citycast-gotransit__28466"/>
+				<link refId="pt_citycast-gotransit__28466"/>
+				<link refId="pt_citycast-gotransit__28466_pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313_pt_citycast-gotransit__28462"/>
+				<link refId="pt_citycast-gotransit__28462"/>
+				<link refId="pt_citycast-gotransit__28462_1220703013_F"/>
+				<link refId="1220703013_F"/>
+				<link refId="pt_1220703013_F_citycast-gotransit__28350"/>
+				<link refId="pt_citycast-gotransit__28350"/>
+				<link refId="pt_citycast-gotransit__28350_pt_citycast-gotransit__28351"/>
+				<link refId="pt_citycast-gotransit__28351"/>
+				<link refId="pt_citycast-gotransit__28351_pt_citycast-gotransit__771476"/>
+				<link refId="pt_citycast-gotransit__771476"/>
+				<link refId="pt_citycast-gotransit__771476_pt_citycast-gotransit__771477"/>
+				<link refId="pt_citycast-gotransit__771477"/>
+				<link refId="pt_citycast-gotransit__771477_pt_citycast-gotransit__771478"/>
+				<link refId="pt_citycast-gotransit__771478"/>
+				<link refId="pt_citycast-gotransit__771478_116090446"/>
+				<link refId="116090446"/>
+				<link refId="116090466"/>
+				<link refId="116090467"/>
+				<link refId="116090444"/>
+				<link refId="116090443"/>
+				<link refId="116090464"/>
+				<link refId="116090465"/>
+				<link refId="116090441"/>
+				<link refId="116090462"/>
+				<link refId="116090463"/>
+				<link refId="116090455"/>
+				<link refId="116090456"/>
+				<link refId="116090438"/>
+				<link refId="1220718213_F"/>
+				<link refId="1220718214_F"/>
+				<link refId="859287843_F"/>
+				<link refId="1220720611_F"/>
+				<link refId="1220720612_F"/>
+				<link refId="1048876319_F"/>
+				<link refId="116090794_R"/>
+				<link refId="116090793_R"/>
+				<link refId="116065549_R"/>
+				<link refId="1220717373_R"/>
+				<link refId="1220717372_R"/>
+				<link refId="1048879809_R"/>
+				<link refId="1202735125_F"/>
+				<link refId="1202735126_F"/>
+				<link refId="1220716278_F"/>
+				<link refId="1220716279_F"/>
+				<link refId="1187529915_F"/>
+				<link refId="1187529913_F"/>
+				<link refId="1048879773_F"/>
+				<link refId="1187529916_F"/>
+				<link refId="1187529917_F"/>
+				<link refId="1187529918_F"/>
+				<link refId="103104254_R"/>
+				<link refId="103104323_R"/>
+				<link refId="103104489_R"/>
+				<link refId="103104490_R"/>
+				<link refId="103104478_R"/>
+				<link refId="103104480_R"/>
+				<link refId="116065559"/>
+				<link refId="1220716136"/>
+				<link refId="1220716137"/>
+				<link refId="1127325413"/>
+				<link refId="1220716278_F"/>
+				<link refId="1220716279_F"/>
+				<link refId="1187529915_F"/>
+				<link refId="1187529913_F"/>
+				<link refId="1048879773_F"/>
+				<link refId="1187529916_F"/>
+				<link refId="1187529917_F"/>
+				<link refId="1187529918_F"/>
+				<link refId="103104254_R"/>
+				<link refId="103104323_R"/>
+				<link refId="103104489_R"/>
+				<link refId="103104490_R"/>
+				<link refId="103104478_R"/>
+				<link refId="103104478_F"/>
+				<link refId="103104490_F"/>
+				<link refId="103104499_F"/>
+				<link refId="103104497_F"/>
+				<link refId="103104471_F"/>
+				<link refId="103104476_F"/>
+				<link refId="103104482_F"/>
+				<link refId="103104484_F"/>
+				<link refId="103104483_F"/>
+				<link refId="103104492_F"/>
+				<link refId="1220719677_F"/>
+				<link refId="1220719678_F"/>
+				<link refId="1220719597_F"/>
+				<link refId="1220719305_F"/>
+				<link refId="1220719306_F"/>
+				<link refId="1187128943_F"/>
+				<link refId="1187128944_F"/>
+				<link refId="92696149_F"/>
+				<link refId="92696150_F"/>
+				<link refId="1187128740_F"/>
+				<link refId="1187128741_F"/>
+				<link refId="1220829812_F"/>
+				<link refId="1220829813_F"/>
+				<link refId="103104519_F"/>
+				<link refId="1220719932_F"/>
+				<link refId="1220719933_F"/>
+				<link refId="1187542673_F"/>
+				<link refId="1187701707_F"/>
+				<link refId="103104528_F"/>
+				<link refId="103104507_F"/>
+				<link refId="1187128728_F"/>
+				<link refId="1187128729_F"/>
+				<link refId="859314972_F"/>
+				<link refId="859314973_F"/>
+				<link refId="1187128732_F"/>
+				<link refId="1187128733_F"/>
+				<link refId="103104520_F"/>
+				<link refId="103104522_F"/>
+				<link refId="103104527_F"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__959__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_100_bus"/>
+				<departure id="citycast-gotransit__959__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_101_bus"/>
+				<departure id="citycast-gotransit__959__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_102_bus"/>
+				<departure id="citycast-gotransit__959__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_103_bus"/>
+				<departure id="citycast-gotransit__959__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_104_bus"/>
+				<departure id="citycast-gotransit__959__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_105_bus"/>
+				<departure id="citycast-gotransit__959__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_106_bus"/>
+				<departure id="citycast-gotransit__959__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_107_bus"/>
+				<departure id="citycast-gotransit__959__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_108_bus"/>
+				<departure id="citycast-gotransit__959__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_109_bus"/>
+				<departure id="citycast-gotransit__959__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_110_bus"/>
+				<departure id="citycast-gotransit__959__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_111_bus"/>
+				<departure id="citycast-gotransit__959__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_112_bus"/>
+				<departure id="citycast-gotransit__959__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_113_bus"/>
+				<departure id="citycast-gotransit__959__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_114_bus"/>
+				<departure id="citycast-gotransit__959__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_115_bus"/>
+				<departure id="citycast-gotransit__959__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_116_bus"/>
+				<departure id="citycast-gotransit__959__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_117_bus"/>
+				<departure id="citycast-gotransit__959__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_118_bus"/>
+				<departure id="citycast-gotransit__959__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_119_bus"/>
+				<departure id="citycast-gotransit__959__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_120_bus"/>
+				<departure id="citycast-gotransit__959__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_121_bus"/>
+				<departure id="citycast-gotransit__959__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_122_bus"/>
+				<departure id="citycast-gotransit__959__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_123_bus"/>
+				<departure id="citycast-gotransit__959__0_18:15:00" departureTime="18:15:00" vehicleRefId="veh_124_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__960__0">
+		<transitRoute id="citycast-gotransit__960__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28279.link:pt_citycast-gotransit__28279" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28419.link:1187627019_R" arrivalOffset="00:00:47" departureOffset="00:01:07" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28420.link:1187715115_R" arrivalOffset="00:03:16" departureOffset="00:03:36" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__759363.link:pt_citycast-gotransit__759363" arrivalOffset="00:03:51" departureOffset="00:04:11" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28315.link:pt_citycast-gotransit__28315" arrivalOffset="00:04:36" departureOffset="00:04:56" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__759364.link:pt_citycast-gotransit__759364" arrivalOffset="00:05:16" departureOffset="00:05:36" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28461.link:pt_citycast-gotransit__28461" arrivalOffset="00:06:11" departureOffset="00:06:31" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758973.link:pt_citycast-gotransit__758973" arrivalOffset="00:07:11" departureOffset="00:07:31" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28407.link:pt_citycast-gotransit__28407" arrivalOffset="00:08:05" departureOffset="00:08:25" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28280.link:pt_citycast-gotransit__28280" arrivalOffset="00:08:57" departureOffset="00:09:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28281.link:pt_citycast-gotransit__28281" arrivalOffset="00:09:55" departureOffset="00:10:15" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28421.link:1220717157_R" arrivalOffset="00:10:37" departureOffset="00:10:57" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28422.link:1220717091_R" arrivalOffset="00:11:16" departureOffset="00:11:36" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28282.link:1220719914_R" arrivalOffset="00:12:11" departureOffset="00:12:31" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28283.link:1220710860_F" arrivalOffset="00:12:58" departureOffset="00:13:18" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28284.link:103103902_F" arrivalOffset="00:13:47" departureOffset="00:14:07" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__819946.link:1187541920_F" arrivalOffset="00:14:47" departureOffset="00:15:07" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__781031.link:pt_citycast-gotransit__781031" arrivalOffset="00:15:40" departureOffset="00:16:00" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__781032.link:pt_citycast-gotransit__781032" arrivalOffset="00:16:33" departureOffset="00:16:53" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28359.link:pt_citycast-gotransit__28359" arrivalOffset="00:17:48" departureOffset="00:18:08" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28360.link:pt_citycast-gotransit__28360" arrivalOffset="00:18:35" departureOffset="00:18:55" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28361.link:pt_citycast-gotransit__28361" arrivalOffset="00:19:22" departureOffset="00:19:42" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28423.link:1187128695_R" arrivalOffset="00:20:11" departureOffset="00:20:31" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28424.link:1187128694_R" arrivalOffset="00:20:54" departureOffset="00:21:14" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28362.link:pt_citycast-gotransit__28362" arrivalOffset="00:22:24" departureOffset="00:22:44" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28363.link:pt_citycast-gotransit__28363" arrivalOffset="00:23:29" departureOffset="00:23:49" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28470.link:pt_citycast-gotransit__28470" arrivalOffset="00:24:48" departureOffset="00:25:08" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28471.link:1220705116_R" arrivalOffset="00:26:26" departureOffset="00:26:46" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28279.link:pt_citycast-gotransit__28279" arrivalOffset="00:27:15" departureOffset="00:27:35" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28279"/>
+				<link refId="pt_citycast-gotransit__28279_1187627019_R"/>
+				<link refId="1187627019_R"/>
+				<link refId="1187627018_R"/>
+				<link refId="108730403_R"/>
+				<link refId="1187715114_R"/>
+				<link refId="1220829452_R"/>
+				<link refId="1236708019_R"/>
+				<link refId="1236708018_R"/>
+				<link refId="1220829412_R"/>
+				<link refId="1220829411_R"/>
+				<link refId="1187715115_R"/>
+				<link refId="pt_1187715115_R_citycast-gotransit__759363"/>
+				<link refId="pt_citycast-gotransit__759363"/>
+				<link refId="pt_citycast-gotransit__759363_pt_citycast-gotransit__28315"/>
+				<link refId="pt_citycast-gotransit__28315"/>
+				<link refId="pt_citycast-gotransit__28315_pt_citycast-gotransit__759364"/>
+				<link refId="pt_citycast-gotransit__759364"/>
+				<link refId="pt_citycast-gotransit__759364_pt_citycast-gotransit__28461"/>
+				<link refId="pt_citycast-gotransit__28461"/>
+				<link refId="pt_citycast-gotransit__28461_pt_citycast-gotransit__758973"/>
+				<link refId="pt_citycast-gotransit__758973"/>
+				<link refId="pt_citycast-gotransit__758973_pt_citycast-gotransit__28407"/>
+				<link refId="pt_citycast-gotransit__28407"/>
+				<link refId="pt_citycast-gotransit__28407_pt_citycast-gotransit__28280"/>
+				<link refId="pt_citycast-gotransit__28280"/>
+				<link refId="pt_citycast-gotransit__28280_pt_citycast-gotransit__28281"/>
+				<link refId="pt_citycast-gotransit__28281"/>
+				<link refId="pt_citycast-gotransit__28281_1220717157_R"/>
+				<link refId="1220717157_R"/>
+				<link refId="1220717156_R"/>
+				<link refId="1220717099_R"/>
+				<link refId="1220717092_R"/>
+				<link refId="1220717091_R"/>
+				<link refId="838254375_R"/>
+				<link refId="1220830011_R"/>
+				<link refId="1220830010_R"/>
+				<link refId="1187177868_R"/>
+				<link refId="838254377"/>
+				<link refId="838254376"/>
+				<link refId="838254372"/>
+				<link refId="1187703616_R"/>
+				<link refId="1220716596_F"/>
+				<link refId="1220716597_F"/>
+				<link refId="1220719915_R"/>
+				<link refId="1220719914_R"/>
+				<link refId="103103904_F"/>
+				<link refId="1220711102_F"/>
+				<link refId="1220711103_F"/>
+				<link refId="1220710860_F"/>
+				<link refId="1220710861_F"/>
+				<link refId="103103896_F"/>
+				<link refId="103103902_F"/>
+				<link refId="1220710974_F"/>
+				<link refId="1220710975_F"/>
+				<link refId="1187128716_F"/>
+				<link refId="1187128717_F"/>
+				<link refId="1187259784_F"/>
+				<link refId="1187541920_F"/>
+				<link refId="pt_1187541920_F_citycast-gotransit__781031"/>
+				<link refId="pt_citycast-gotransit__781031"/>
+				<link refId="pt_citycast-gotransit__781031_pt_citycast-gotransit__781032"/>
+				<link refId="pt_citycast-gotransit__781032"/>
+				<link refId="pt_citycast-gotransit__781032_pt_citycast-gotransit__28359"/>
+				<link refId="pt_citycast-gotransit__28359"/>
+				<link refId="pt_citycast-gotransit__28359_pt_citycast-gotransit__28360"/>
+				<link refId="pt_citycast-gotransit__28360"/>
+				<link refId="pt_citycast-gotransit__28360_pt_citycast-gotransit__28361"/>
+				<link refId="pt_citycast-gotransit__28361"/>
+				<link refId="pt_citycast-gotransit__28361_1187128695_R"/>
+				<link refId="1187128695_R"/>
+				<link refId="1187128694_R"/>
+				<link refId="pt_1187128694_R_citycast-gotransit__28362"/>
+				<link refId="pt_citycast-gotransit__28362"/>
+				<link refId="pt_citycast-gotransit__28362_pt_citycast-gotransit__28363"/>
+				<link refId="pt_citycast-gotransit__28363"/>
+				<link refId="pt_citycast-gotransit__28363_pt_citycast-gotransit__28470"/>
+				<link refId="pt_citycast-gotransit__28470"/>
+				<link refId="pt_citycast-gotransit__28470_1220705116_R"/>
+				<link refId="1220705116_R"/>
+				<link refId="pt_1220705116_R_citycast-gotransit__28279"/>
+				<link refId="pt_citycast-gotransit__28279"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__960__0_06:26:00" departureTime="06:26:00" vehicleRefId="veh_125_bus"/>
+				<departure id="citycast-gotransit__960__0_06:56:00" departureTime="06:56:00" vehicleRefId="veh_126_bus"/>
+				<departure id="citycast-gotransit__960__0_07:26:00" departureTime="07:26:00" vehicleRefId="veh_127_bus"/>
+				<departure id="citycast-gotransit__960__0_07:56:00" departureTime="07:56:00" vehicleRefId="veh_128_bus"/>
+				<departure id="citycast-gotransit__960__0_08:26:00" departureTime="08:26:00" vehicleRefId="veh_129_bus"/>
+				<departure id="citycast-gotransit__960__0_08:56:00" departureTime="08:56:00" vehicleRefId="veh_130_bus"/>
+				<departure id="citycast-gotransit__960__0_09:26:00" departureTime="09:26:00" vehicleRefId="veh_131_bus"/>
+				<departure id="citycast-gotransit__960__0_09:56:00" departureTime="09:56:00" vehicleRefId="veh_132_bus"/>
+				<departure id="citycast-gotransit__960__0_10:26:00" departureTime="10:26:00" vehicleRefId="veh_133_bus"/>
+				<departure id="citycast-gotransit__960__0_10:56:00" departureTime="10:56:00" vehicleRefId="veh_134_bus"/>
+				<departure id="citycast-gotransit__960__0_11:26:00" departureTime="11:26:00" vehicleRefId="veh_135_bus"/>
+				<departure id="citycast-gotransit__960__0_11:56:00" departureTime="11:56:00" vehicleRefId="veh_136_bus"/>
+				<departure id="citycast-gotransit__960__0_12:26:00" departureTime="12:26:00" vehicleRefId="veh_137_bus"/>
+				<departure id="citycast-gotransit__960__0_12:56:00" departureTime="12:56:00" vehicleRefId="veh_138_bus"/>
+				<departure id="citycast-gotransit__960__0_13:26:00" departureTime="13:26:00" vehicleRefId="veh_139_bus"/>
+				<departure id="citycast-gotransit__960__0_13:56:00" departureTime="13:56:00" vehicleRefId="veh_140_bus"/>
+				<departure id="citycast-gotransit__960__0_14:26:00" departureTime="14:26:00" vehicleRefId="veh_141_bus"/>
+				<departure id="citycast-gotransit__960__0_14:56:00" departureTime="14:56:00" vehicleRefId="veh_142_bus"/>
+				<departure id="citycast-gotransit__960__0_15:26:00" departureTime="15:26:00" vehicleRefId="veh_143_bus"/>
+				<departure id="citycast-gotransit__960__0_15:56:00" departureTime="15:56:00" vehicleRefId="veh_144_bus"/>
+				<departure id="citycast-gotransit__960__0_16:26:00" departureTime="16:26:00" vehicleRefId="veh_145_bus"/>
+				<departure id="citycast-gotransit__960__0_16:56:00" departureTime="16:56:00" vehicleRefId="veh_146_bus"/>
+				<departure id="citycast-gotransit__960__0_17:26:00" departureTime="17:26:00" vehicleRefId="veh_147_bus"/>
+				<departure id="citycast-gotransit__960__0_17:56:00" departureTime="17:56:00" vehicleRefId="veh_148_bus"/>
+				<departure id="citycast-gotransit__960__0_18:26:00" departureTime="18:26:00" vehicleRefId="veh_149_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__961__0">
+		<transitRoute id="citycast-gotransit__961__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28285.link:pt_citycast-gotransit__28285" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28286.link:1220711043_F" arrivalOffset="00:02:35" departureOffset="00:02:55" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28287.link:1202733737_F" arrivalOffset="00:03:18" departureOffset="00:03:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28288.link:116065789_F" arrivalOffset="00:04:43" departureOffset="00:05:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28289.link:116065549_R" arrivalOffset="00:06:03" departureOffset="00:06:23" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28425.link:1127325414" arrivalOffset="00:06:58" departureOffset="00:07:18" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28426.link:103104829" arrivalOffset="00:08:21" departureOffset="00:08:41" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28290.link:1048535236" arrivalOffset="00:09:21" departureOffset="00:09:41" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28291.link:1048525761" arrivalOffset="00:10:23" departureOffset="00:10:43" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28292.link:103105377" arrivalOffset="00:11:10" departureOffset="00:11:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__761640.link:1048876277" arrivalOffset="00:12:02" departureOffset="00:12:22" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28293.link:1220702484" arrivalOffset="00:12:42" departureOffset="00:13:02" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:13:38" departureOffset="00:13:58" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28285"/>
+				<link refId="pt_citycast-gotransit__28285_1220711043_F"/>
+				<link refId="1220711043_F"/>
+				<link refId="1220711044_F"/>
+				<link refId="1202733737_F"/>
+				<link refId="1202733738_F"/>
+				<link refId="116091085_F"/>
+				<link refId="116091084_R"/>
+				<link refId="116090804_F"/>
+				<link refId="116090805_F"/>
+				<link refId="1220719441_F"/>
+				<link refId="1220719442_F"/>
+				<link refId="116065789_F"/>
+				<link refId="859287845"/>
+				<link refId="1220720611_F"/>
+				<link refId="1220720612_F"/>
+				<link refId="1048876319_F"/>
+				<link refId="116090794_R"/>
+				<link refId="116090793_R"/>
+				<link refId="116065549_R"/>
+				<link refId="1220717373_R"/>
+				<link refId="1220717372_R"/>
+				<link refId="1220716842"/>
+				<link refId="1220716841"/>
+				<link refId="1127325414"/>
+				<link refId="1048879872"/>
+				<link refId="1048879871"/>
+				<link refId="103104829"/>
+				<link refId="1048525904"/>
+				<link refId="1048525903"/>
+				<link refId="1048525772"/>
+				<link refId="1048525771"/>
+				<link refId="1048535233"/>
+				<link refId="1048535232"/>
+				<link refId="1048535237"/>
+				<link refId="1048535236"/>
+				<link refId="1048525734"/>
+				<link refId="1048525704"/>
+				<link refId="1048525703"/>
+				<link refId="1048987390"/>
+				<link refId="1048987389"/>
+				<link refId="1048525738"/>
+				<link refId="1048535281"/>
+				<link refId="1048535280"/>
+				<link refId="1048525761"/>
+				<link refId="1048525869"/>
+				<link refId="1048525871"/>
+				<link refId="1048525870"/>
+				<link refId="103105377"/>
+				<link refId="1048876277"/>
+				<link refId="1220702475"/>
+				<link refId="1220702485"/>
+				<link refId="1220702484"/>
+				<link refId="pt_1220702484_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__961__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_150_bus"/>
+				<departure id="citycast-gotransit__961__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_151_bus"/>
+				<departure id="citycast-gotransit__961__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_152_bus"/>
+				<departure id="citycast-gotransit__961__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_153_bus"/>
+				<departure id="citycast-gotransit__961__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_154_bus"/>
+				<departure id="citycast-gotransit__961__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_155_bus"/>
+				<departure id="citycast-gotransit__961__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_156_bus"/>
+				<departure id="citycast-gotransit__961__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_157_bus"/>
+				<departure id="citycast-gotransit__961__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_158_bus"/>
+				<departure id="citycast-gotransit__961__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_159_bus"/>
+				<departure id="citycast-gotransit__961__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_160_bus"/>
+				<departure id="citycast-gotransit__961__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_161_bus"/>
+				<departure id="citycast-gotransit__961__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_162_bus"/>
+				<departure id="citycast-gotransit__961__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_163_bus"/>
+				<departure id="citycast-gotransit__961__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_164_bus"/>
+				<departure id="citycast-gotransit__961__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_165_bus"/>
+				<departure id="citycast-gotransit__961__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_166_bus"/>
+				<departure id="citycast-gotransit__961__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_167_bus"/>
+				<departure id="citycast-gotransit__961__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_168_bus"/>
+				<departure id="citycast-gotransit__961__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_169_bus"/>
+				<departure id="citycast-gotransit__961__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_170_bus"/>
+				<departure id="citycast-gotransit__961__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_171_bus"/>
+				<departure id="citycast-gotransit__961__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_172_bus"/>
+				<departure id="citycast-gotransit__961__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_173_bus"/>
+				<departure id="citycast-gotransit__961__0_18:15:00" departureTime="18:15:00" vehicleRefId="veh_174_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__961__1">
+		<transitRoute id="citycast-gotransit__961__1">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28472.link:1220702506" arrivalOffset="00:00:57" departureOffset="00:01:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28473.link:103105363" arrivalOffset="00:01:51" departureOffset="00:02:11" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28354.link:1048525845" arrivalOffset="00:02:58" departureOffset="00:03:18" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28355.link:1048535263" arrivalOffset="00:03:47" departureOffset="00:04:07" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28356.link:1048522789" arrivalOffset="00:04:53" departureOffset="00:05:13" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758091.link:103104655" arrivalOffset="00:06:03" departureOffset="00:06:23" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28475.link:1220716136" arrivalOffset="00:06:41" departureOffset="00:07:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28476.link:116065549_F" arrivalOffset="00:07:42" departureOffset="00:08:02" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28477.link:116090805_R" arrivalOffset="00:09:10" departureOffset="00:09:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28478.link:1202733737_R" arrivalOffset="00:10:28" departureOffset="00:10:48" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28479.link:1220711043_R" arrivalOffset="00:11:07" departureOffset="00:11:27" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28285.link:pt_citycast-gotransit__28285" arrivalOffset="00:13:44" departureOffset="00:14:04" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313_1220702506"/>
+				<link refId="1220702506"/>
+				<link refId="1220702507"/>
+				<link refId="1220702499"/>
+				<link refId="1048876279"/>
+				<link refId="1048876280"/>
+				<link refId="1048876288"/>
+				<link refId="1048876289"/>
+				<link refId="103105363"/>
+				<link refId="919955689"/>
+				<link refId="919955690"/>
+				<link refId="116107125"/>
+				<link refId="103105192"/>
+				<link refId="1048525845"/>
+				<link refId="1048525846"/>
+				<link refId="1048522852"/>
+				<link refId="1048535262"/>
+				<link refId="1048535263"/>
+				<link refId="1048525724"/>
+				<link refId="1048525725"/>
+				<link refId="1048522885"/>
+				<link refId="1048525700"/>
+				<link refId="1048525701"/>
+				<link refId="1048525699"/>
+				<link refId="1048525696"/>
+				<link refId="1048522844"/>
+				<link refId="1048522836"/>
+				<link refId="1048522821"/>
+				<link refId="1048522812"/>
+				<link refId="1048522809"/>
+				<link refId="1048522789"/>
+				<link refId="1048525818"/>
+				<link refId="1048525819"/>
+				<link refId="1048525831"/>
+				<link refId="1048525839"/>
+				<link refId="1048525840"/>
+				<link refId="1048525834"/>
+				<link refId="1048525836"/>
+				<link refId="1048525837"/>
+				<link refId="103104655"/>
+				<link refId="116065559"/>
+				<link refId="1220716136"/>
+				<link refId="1220716137"/>
+				<link refId="1127325413"/>
+				<link refId="1202735126_R"/>
+				<link refId="1202735125_R"/>
+				<link refId="1048879809_F"/>
+				<link refId="1220717372_F"/>
+				<link refId="1220717373_F"/>
+				<link refId="116065549_F"/>
+				<link refId="116090793_F"/>
+				<link refId="116090794_F"/>
+				<link refId="116065785"/>
+				<link refId="116065727"/>
+				<link refId="116065789_R"/>
+				<link refId="1220719442_R"/>
+				<link refId="1220719441_R"/>
+				<link refId="116090805_R"/>
+				<link refId="116090804_R"/>
+				<link refId="116091084_F"/>
+				<link refId="116091085_R"/>
+				<link refId="1202733738_R"/>
+				<link refId="1202733737_R"/>
+				<link refId="1220711044_R"/>
+				<link refId="1220711043_R"/>
+				<link refId="pt_1220711043_R_citycast-gotransit__28285"/>
+				<link refId="pt_citycast-gotransit__28285"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__961__1_06:30:00" departureTime="06:30:00" vehicleRefId="veh_175_bus"/>
+				<departure id="citycast-gotransit__961__1_07:00:00" departureTime="07:00:00" vehicleRefId="veh_176_bus"/>
+				<departure id="citycast-gotransit__961__1_07:30:00" departureTime="07:30:00" vehicleRefId="veh_177_bus"/>
+				<departure id="citycast-gotransit__961__1_08:00:00" departureTime="08:00:00" vehicleRefId="veh_178_bus"/>
+				<departure id="citycast-gotransit__961__1_08:30:00" departureTime="08:30:00" vehicleRefId="veh_179_bus"/>
+				<departure id="citycast-gotransit__961__1_09:00:00" departureTime="09:00:00" vehicleRefId="veh_180_bus"/>
+				<departure id="citycast-gotransit__961__1_09:30:00" departureTime="09:30:00" vehicleRefId="veh_181_bus"/>
+				<departure id="citycast-gotransit__961__1_10:00:00" departureTime="10:00:00" vehicleRefId="veh_182_bus"/>
+				<departure id="citycast-gotransit__961__1_10:30:00" departureTime="10:30:00" vehicleRefId="veh_183_bus"/>
+				<departure id="citycast-gotransit__961__1_11:00:00" departureTime="11:00:00" vehicleRefId="veh_184_bus"/>
+				<departure id="citycast-gotransit__961__1_11:30:00" departureTime="11:30:00" vehicleRefId="veh_185_bus"/>
+				<departure id="citycast-gotransit__961__1_12:00:00" departureTime="12:00:00" vehicleRefId="veh_186_bus"/>
+				<departure id="citycast-gotransit__961__1_12:30:00" departureTime="12:30:00" vehicleRefId="veh_187_bus"/>
+				<departure id="citycast-gotransit__961__1_13:00:00" departureTime="13:00:00" vehicleRefId="veh_188_bus"/>
+				<departure id="citycast-gotransit__961__1_13:30:00" departureTime="13:30:00" vehicleRefId="veh_189_bus"/>
+				<departure id="citycast-gotransit__961__1_14:00:00" departureTime="14:00:00" vehicleRefId="veh_190_bus"/>
+				<departure id="citycast-gotransit__961__1_14:30:00" departureTime="14:30:00" vehicleRefId="veh_191_bus"/>
+				<departure id="citycast-gotransit__961__1_15:00:00" departureTime="15:00:00" vehicleRefId="veh_192_bus"/>
+				<departure id="citycast-gotransit__961__1_15:30:00" departureTime="15:30:00" vehicleRefId="veh_193_bus"/>
+				<departure id="citycast-gotransit__961__1_16:00:00" departureTime="16:00:00" vehicleRefId="veh_194_bus"/>
+				<departure id="citycast-gotransit__961__1_16:30:00" departureTime="16:30:00" vehicleRefId="veh_195_bus"/>
+				<departure id="citycast-gotransit__961__1_17:00:00" departureTime="17:00:00" vehicleRefId="veh_196_bus"/>
+				<departure id="citycast-gotransit__961__1_17:30:00" departureTime="17:30:00" vehicleRefId="veh_197_bus"/>
+				<departure id="citycast-gotransit__961__1_18:00:00" departureTime="18:00:00" vehicleRefId="veh_198_bus"/>
+				<departure id="citycast-gotransit__961__1_18:30:00" departureTime="18:30:00" vehicleRefId="veh_199_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__962__0">
+		<transitRoute id="citycast-gotransit__962__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28318.link:1192800249" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28427.link:1220711755" arrivalOffset="00:00:46" departureOffset="00:01:06" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28294.link:92696826_R" arrivalOffset="00:02:10" departureOffset="00:02:30" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28295.link:108727060_R" arrivalOffset="00:03:19" departureOffset="00:03:39" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28296.link:103106071_R" arrivalOffset="00:04:18" departureOffset="00:04:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28297.link:1220702430_R" arrivalOffset="00:05:27" departureOffset="00:05:47" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28298.link:103106094_R" arrivalOffset="00:06:37" departureOffset="00:06:57" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28299.link:1220703292_R" arrivalOffset="00:07:36" departureOffset="00:07:56" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__766419.link:103106103_F" arrivalOffset="00:08:35" departureOffset="00:08:55" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28300.link:108727030_F" arrivalOffset="00:09:17" departureOffset="00:09:37" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__794888.link:pt_citycast-gotransit__794888" arrivalOffset="00:10:19" departureOffset="00:10:39" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28368.link:103106067_F" arrivalOffset="00:11:07" departureOffset="00:11:27" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:12:35" departureOffset="00:12:55" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="1192800249"/>
+				<link refId="130094234"/>
+				<link refId="924357929"/>
+				<link refId="1220711755"/>
+				<link refId="1220711754"/>
+				<link refId="924357930"/>
+				<link refId="1220711932"/>
+				<link refId="1220712140"/>
+				<link refId="1220712139"/>
+				<link refId="924357925"/>
+				<link refId="924357923"/>
+				<link refId="924357945"/>
+				<link refId="924357951"/>
+				<link refId="20113429"/>
+				<link refId="924357958"/>
+				<link refId="924357963"/>
+				<link refId="924357966"/>
+				<link refId="924357990"/>
+				<link refId="924357991"/>
+				<link refId="924357971"/>
+				<link refId="924357972"/>
+				<link refId="924357973"/>
+				<link refId="924357977"/>
+				<link refId="924357978_R"/>
+				<link refId="92696826_R"/>
+				<link refId="92696822_R"/>
+				<link refId="92696821_R"/>
+				<link refId="108727061_R"/>
+				<link refId="108727060_R"/>
+				<link refId="108727059_R"/>
+				<link refId="108727058_R"/>
+				<link refId="103106066_F"/>
+				<link refId="103106070_F"/>
+				<link refId="103106071_R"/>
+				<link refId="103106072_F"/>
+				<link refId="1220702418_R"/>
+				<link refId="1220702417_F"/>
+				<link refId="1220702431_R"/>
+				<link refId="1220702430_R"/>
+				<link refId="103106093_R"/>
+				<link refId="103106095_R"/>
+				<link refId="103106094_R"/>
+				<link refId="1220707736_R"/>
+				<link refId="1220707735_R"/>
+				<link refId="1220703293_F"/>
+				<link refId="1220703292_R"/>
+				<link refId="103106103_F"/>
+				<link refId="1187128710_F"/>
+				<link refId="1187128711_F"/>
+				<link refId="108727030_F"/>
+				<link refId="pt_108727030_F_citycast-gotransit__794888"/>
+				<link refId="pt_citycast-gotransit__794888"/>
+				<link refId="pt_citycast-gotransit__794888_103106067_F"/>
+				<link refId="103106067_F"/>
+				<link refId="pt_103106067_F_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__962__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_200_bus"/>
+				<departure id="citycast-gotransit__962__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_201_bus"/>
+				<departure id="citycast-gotransit__962__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_202_bus"/>
+				<departure id="citycast-gotransit__962__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_203_bus"/>
+				<departure id="citycast-gotransit__962__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_204_bus"/>
+				<departure id="citycast-gotransit__962__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_205_bus"/>
+				<departure id="citycast-gotransit__962__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_206_bus"/>
+				<departure id="citycast-gotransit__962__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_207_bus"/>
+				<departure id="citycast-gotransit__962__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_208_bus"/>
+				<departure id="citycast-gotransit__962__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_209_bus"/>
+				<departure id="citycast-gotransit__962__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_210_bus"/>
+				<departure id="citycast-gotransit__962__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_211_bus"/>
+				<departure id="citycast-gotransit__962__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_212_bus"/>
+				<departure id="citycast-gotransit__962__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_213_bus"/>
+				<departure id="citycast-gotransit__962__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_214_bus"/>
+				<departure id="citycast-gotransit__962__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_215_bus"/>
+				<departure id="citycast-gotransit__962__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_216_bus"/>
+				<departure id="citycast-gotransit__962__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_217_bus"/>
+				<departure id="citycast-gotransit__962__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_218_bus"/>
+				<departure id="citycast-gotransit__962__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_219_bus"/>
+				<departure id="citycast-gotransit__962__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_220_bus"/>
+				<departure id="citycast-gotransit__962__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_221_bus"/>
+				<departure id="citycast-gotransit__962__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_222_bus"/>
+				<departure id="citycast-gotransit__962__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_223_bus"/>
+				<departure id="citycast-gotransit__962__0_18:15:00" departureTime="18:15:00" vehicleRefId="veh_224_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__962__1">
+		<transitRoute id="citycast-gotransit__962__1">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28462.link:pt_citycast-gotransit__28462" arrivalOffset="00:01:25" departureOffset="00:01:45" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28481.link:1220703013_F" arrivalOffset="00:03:14" departureOffset="00:03:34" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28482.link:1187531550_F" arrivalOffset="00:04:03" departureOffset="00:04:23" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28483.link:1220703076_F" arrivalOffset="00:04:58" departureOffset="00:05:18" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28369.link:1220703046_F" arrivalOffset="00:06:05" departureOffset="00:06:25" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28484.link:1220703296_F" arrivalOffset="00:07:00" departureOffset="00:07:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28428.link:pt_citycast-gotransit__28428" arrivalOffset="00:08:05" departureOffset="00:08:25" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28429.link:pt_citycast-gotransit__28429" arrivalOffset="00:08:43" departureOffset="00:09:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28485.link:1220702881_F" arrivalOffset="00:09:31" departureOffset="00:09:51" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28486.link:842543844_F" arrivalOffset="00:10:33" departureOffset="00:10:53" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28318.link:1192800249" arrivalOffset="00:11:50" departureOffset="00:12:10" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313_pt_citycast-gotransit__28462"/>
+				<link refId="pt_citycast-gotransit__28462"/>
+				<link refId="pt_citycast-gotransit__28462_1220703013_F"/>
+				<link refId="1220703013_F"/>
+				<link refId="1220703014_F"/>
+				<link refId="1220703005_R"/>
+				<link refId="1220703006_F"/>
+				<link refId="1187531550_F"/>
+				<link refId="108725879_F"/>
+				<link refId="116090538_F"/>
+				<link refId="1220703075_R"/>
+				<link refId="1220703076_F"/>
+				<link refId="1220703090_R"/>
+				<link refId="1220703091_F"/>
+				<link refId="116106436_F"/>
+				<link refId="116106437_R"/>
+				<link refId="1220703024_F"/>
+				<link refId="1220703025_F"/>
+				<link refId="1220703045_F"/>
+				<link refId="1220703046_F"/>
+				<link refId="103105482_F"/>
+				<link refId="108727080_F"/>
+				<link refId="1220703245_F"/>
+				<link refId="1220703246_F"/>
+				<link refId="1220703296_F"/>
+				<link refId="pt_1220703296_F_citycast-gotransit__28428"/>
+				<link refId="pt_citycast-gotransit__28428"/>
+				<link refId="pt_citycast-gotransit__28428_pt_citycast-gotransit__28429"/>
+				<link refId="pt_citycast-gotransit__28429"/>
+				<link refId="pt_citycast-gotransit__28429_1220702881_F"/>
+				<link refId="1220702881_F"/>
+				<link refId="1220702883_F"/>
+				<link refId="1220702884_F"/>
+				<link refId="842543844_F"/>
+				<link refId="842543844_R"/>
+				<link refId="1220702884_R"/>
+				<link refId="1220702883_R"/>
+				<link refId="1220702881_R"/>
+				<link refId="1220702877_F"/>
+				<link refId="1220702878_F"/>
+				<link refId="92696780_R"/>
+				<link refId="92696779_R"/>
+				<link refId="92696778_R"/>
+				<link refId="1220703102_F"/>
+				<link refId="1220703103_F"/>
+				<link refId="1220703045_F"/>
+				<link refId="1220703046_F"/>
+				<link refId="103105482_F"/>
+				<link refId="108727080_F"/>
+				<link refId="1220703245_F"/>
+				<link refId="1220703246_F"/>
+				<link refId="1220703296_F"/>
+				<link refId="1220703311_F"/>
+				<link refId="1220703312_F"/>
+				<link refId="1220703509_F"/>
+				<link refId="1220703510_F"/>
+				<link refId="116090448"/>
+				<link refId="116090447"/>
+				<link refId="116090446"/>
+				<link refId="116090466"/>
+				<link refId="116090467"/>
+				<link refId="116090444"/>
+				<link refId="116090443"/>
+				<link refId="116090464"/>
+				<link refId="116090465"/>
+				<link refId="116090441"/>
+				<link refId="116090462"/>
+				<link refId="116090463"/>
+				<link refId="116090455"/>
+				<link refId="116090456"/>
+				<link refId="116090438"/>
+				<link refId="1220718213_F"/>
+				<link refId="1220718214_F"/>
+				<link refId="116065786_F"/>
+				<link refId="116065787_F"/>
+				<link refId="116065789_R"/>
+				<link refId="1220719442_R"/>
+				<link refId="1220719441_R"/>
+				<link refId="116090805_R"/>
+				<link refId="116090804_R"/>
+				<link refId="116091084_F"/>
+				<link refId="116091085_R"/>
+				<link refId="1202733738_R"/>
+				<link refId="1202733737_R"/>
+				<link refId="1220711044_R"/>
+				<link refId="1220711043_R"/>
+				<link refId="116090336_R"/>
+				<link refId="1220710943"/>
+				<link refId="1220710942"/>
+				<link refId="979762004"/>
+				<link refId="979762007"/>
+				<link refId="979762010"/>
+				<link refId="979769192"/>
+				<link refId="979769191"/>
+				<link refId="130092835"/>
+				<link refId="979766076"/>
+				<link refId="979766072"/>
+				<link refId="1206010313"/>
+				<link refId="1206207219"/>
+				<link refId="1206207220"/>
+				<link refId="979853832"/>
+				<link refId="979853833"/>
+				<link refId="979853837"/>
+				<link refId="979853836"/>
+				<link refId="979860111"/>
+				<link refId="979866125"/>
+				<link refId="979866124"/>
+				<link refId="1192794531"/>
+				<link refId="1201916756"/>
+				<link refId="1201916755"/>
+				<link refId="92696843"/>
+				<link refId="1192800248"/>
+				<link refId="1192800250"/>
+				<link refId="1192800249"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__962__1_06:30:00" departureTime="06:30:00" vehicleRefId="veh_225_bus"/>
+				<departure id="citycast-gotransit__962__1_07:00:00" departureTime="07:00:00" vehicleRefId="veh_226_bus"/>
+				<departure id="citycast-gotransit__962__1_07:30:00" departureTime="07:30:00" vehicleRefId="veh_227_bus"/>
+				<departure id="citycast-gotransit__962__1_08:00:00" departureTime="08:00:00" vehicleRefId="veh_228_bus"/>
+				<departure id="citycast-gotransit__962__1_08:30:00" departureTime="08:30:00" vehicleRefId="veh_229_bus"/>
+				<departure id="citycast-gotransit__962__1_09:00:00" departureTime="09:00:00" vehicleRefId="veh_230_bus"/>
+				<departure id="citycast-gotransit__962__1_09:30:00" departureTime="09:30:00" vehicleRefId="veh_231_bus"/>
+				<departure id="citycast-gotransit__962__1_10:00:00" departureTime="10:00:00" vehicleRefId="veh_232_bus"/>
+				<departure id="citycast-gotransit__962__1_10:30:00" departureTime="10:30:00" vehicleRefId="veh_233_bus"/>
+				<departure id="citycast-gotransit__962__1_11:00:00" departureTime="11:00:00" vehicleRefId="veh_234_bus"/>
+				<departure id="citycast-gotransit__962__1_11:30:00" departureTime="11:30:00" vehicleRefId="veh_235_bus"/>
+				<departure id="citycast-gotransit__962__1_12:00:00" departureTime="12:00:00" vehicleRefId="veh_236_bus"/>
+				<departure id="citycast-gotransit__962__1_12:30:00" departureTime="12:30:00" vehicleRefId="veh_237_bus"/>
+				<departure id="citycast-gotransit__962__1_13:00:00" departureTime="13:00:00" vehicleRefId="veh_238_bus"/>
+				<departure id="citycast-gotransit__962__1_13:30:00" departureTime="13:30:00" vehicleRefId="veh_239_bus"/>
+				<departure id="citycast-gotransit__962__1_14:00:00" departureTime="14:00:00" vehicleRefId="veh_240_bus"/>
+				<departure id="citycast-gotransit__962__1_14:30:00" departureTime="14:30:00" vehicleRefId="veh_241_bus"/>
+				<departure id="citycast-gotransit__962__1_15:00:00" departureTime="15:00:00" vehicleRefId="veh_242_bus"/>
+				<departure id="citycast-gotransit__962__1_15:30:00" departureTime="15:30:00" vehicleRefId="veh_243_bus"/>
+				<departure id="citycast-gotransit__962__1_16:00:00" departureTime="16:00:00" vehicleRefId="veh_244_bus"/>
+				<departure id="citycast-gotransit__962__1_16:30:00" departureTime="16:30:00" vehicleRefId="veh_245_bus"/>
+				<departure id="citycast-gotransit__962__1_17:00:00" departureTime="17:00:00" vehicleRefId="veh_246_bus"/>
+				<departure id="citycast-gotransit__962__1_17:30:00" departureTime="17:30:00" vehicleRefId="veh_247_bus"/>
+				<departure id="citycast-gotransit__962__1_18:00:00" departureTime="18:00:00" vehicleRefId="veh_248_bus"/>
+				<departure id="citycast-gotransit__962__1_18:30:00" departureTime="18:30:00" vehicleRefId="veh_249_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__963__0">
+		<transitRoute id="citycast-gotransit__963__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28285.link:pt_citycast-gotransit__28285" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28430.link:pt_citycast-gotransit__28430" arrivalOffset="00:01:17" departureOffset="00:01:37" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758090.link:92696843" arrivalOffset="00:03:04" departureOffset="00:03:24" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28431.link:1192800248" arrivalOffset="00:04:12" departureOffset="00:04:32" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28318.link:1192800249" arrivalOffset="00:05:37" departureOffset="00:05:57" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28427.link:1220711755" arrivalOffset="00:06:23" departureOffset="00:06:43" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28433.link:pt_citycast-gotransit__28433" arrivalOffset="00:07:28" departureOffset="00:07:48" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28434.link:1192788359" arrivalOffset="00:08:38" departureOffset="00:08:58" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28445.link:1192797911" arrivalOffset="00:10:13" departureOffset="00:10:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28446.link:pt_citycast-gotransit__28446" arrivalOffset="00:11:08" departureOffset="00:11:28" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28370.link:pt_citycast-gotransit__28370" arrivalOffset="00:12:18" departureOffset="00:12:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28371.link:pt_citycast-gotransit__28371" arrivalOffset="00:13:27" departureOffset="00:13:47" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28372.link:1192797914" arrivalOffset="00:14:35" departureOffset="00:14:55" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28373.link:924357953" arrivalOffset="00:15:33" departureOffset="00:15:53" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28374.link:pt_citycast-gotransit__28374" arrivalOffset="00:16:17" departureOffset="00:16:37" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28375.link:924357962" arrivalOffset="00:17:22" departureOffset="00:17:42" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28376.link:1192798582" arrivalOffset="00:18:16" departureOffset="00:18:36" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28377.link:pt_citycast-gotransit__28377" arrivalOffset="00:19:37" departureOffset="00:19:57" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__761641.link:pt_citycast-gotransit__761641" arrivalOffset="00:20:17" departureOffset="00:20:37" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28378.link:1192798582" arrivalOffset="00:21:16" departureOffset="00:21:36" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28304.link:pt_citycast-gotransit__28304" arrivalOffset="00:22:23" departureOffset="00:22:43" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28379.link:pt_citycast-gotransit__28379" arrivalOffset="00:23:14" departureOffset="00:23:34" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28380.link:pt_citycast-gotransit__28380" arrivalOffset="00:24:13" departureOffset="00:24:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28479.link:1220711043_R" arrivalOffset="00:24:57" departureOffset="00:25:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__759369.link:pt_citycast-gotransit__759369" arrivalOffset="00:28:13" departureOffset="00:28:33" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__770328.link:pt_citycast-gotransit__770328" arrivalOffset="00:28:52" departureOffset="00:29:12" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28285.link:pt_citycast-gotransit__28285" arrivalOffset="00:29:39" departureOffset="00:29:59" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28285"/>
+				<link refId="pt_citycast-gotransit__28285_pt_citycast-gotransit__28430"/>
+				<link refId="pt_citycast-gotransit__28430"/>
+				<link refId="pt_citycast-gotransit__28430_92696843"/>
+				<link refId="92696843"/>
+				<link refId="1192800248"/>
+				<link refId="1192800250"/>
+				<link refId="1192800249"/>
+				<link refId="130094234"/>
+				<link refId="924357929"/>
+				<link refId="1220711755"/>
+				<link refId="pt_1220711755_citycast-gotransit__28433"/>
+				<link refId="pt_citycast-gotransit__28433"/>
+				<link refId="pt_citycast-gotransit__28433_1192788359"/>
+				<link refId="1192788359"/>
+				<link refId="1192788361"/>
+				<link refId="1192797911"/>
+				<link refId="pt_1192797911_citycast-gotransit__28446"/>
+				<link refId="pt_citycast-gotransit__28446"/>
+				<link refId="pt_citycast-gotransit__28446_pt_citycast-gotransit__28370"/>
+				<link refId="pt_citycast-gotransit__28370"/>
+				<link refId="pt_citycast-gotransit__28370_pt_citycast-gotransit__28371"/>
+				<link refId="pt_citycast-gotransit__28371"/>
+				<link refId="pt_citycast-gotransit__28371_1192797914"/>
+				<link refId="1192797914"/>
+				<link refId="116093833"/>
+				<link refId="924357953"/>
+				<link refId="pt_924357953_citycast-gotransit__28374"/>
+				<link refId="pt_citycast-gotransit__28374"/>
+				<link refId="pt_citycast-gotransit__28374_924357962"/>
+				<link refId="924357962"/>
+				<link refId="1192798579"/>
+				<link refId="1192798580"/>
+				<link refId="1192798581"/>
+				<link refId="1192798582"/>
+				<link refId="pt_1192798582_citycast-gotransit__28377"/>
+				<link refId="pt_citycast-gotransit__28377"/>
+				<link refId="pt_citycast-gotransit__28377_pt_citycast-gotransit__761641"/>
+				<link refId="pt_citycast-gotransit__761641"/>
+				<link refId="pt_citycast-gotransit__761641_1192798582"/>
+				<link refId="1192798582"/>
+				<link refId="pt_1192798582_citycast-gotransit__28304"/>
+				<link refId="pt_citycast-gotransit__28304"/>
+				<link refId="pt_citycast-gotransit__28304_pt_citycast-gotransit__28379"/>
+				<link refId="pt_citycast-gotransit__28379"/>
+				<link refId="pt_citycast-gotransit__28379_pt_citycast-gotransit__28380"/>
+				<link refId="pt_citycast-gotransit__28380"/>
+				<link refId="pt_citycast-gotransit__28380_1220711043_R"/>
+				<link refId="1220711043_R"/>
+				<link refId="pt_1220711043_R_citycast-gotransit__759369"/>
+				<link refId="pt_citycast-gotransit__759369"/>
+				<link refId="pt_citycast-gotransit__759369_pt_citycast-gotransit__770328"/>
+				<link refId="pt_citycast-gotransit__770328"/>
+				<link refId="pt_citycast-gotransit__770328_pt_citycast-gotransit__28285"/>
+				<link refId="pt_citycast-gotransit__28285"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__963__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_250_bus"/>
+				<departure id="citycast-gotransit__963__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_251_bus"/>
+				<departure id="citycast-gotransit__963__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_252_bus"/>
+				<departure id="citycast-gotransit__963__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_253_bus"/>
+				<departure id="citycast-gotransit__963__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_254_bus"/>
+				<departure id="citycast-gotransit__963__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_255_bus"/>
+				<departure id="citycast-gotransit__963__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_256_bus"/>
+				<departure id="citycast-gotransit__963__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_257_bus"/>
+				<departure id="citycast-gotransit__963__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_258_bus"/>
+				<departure id="citycast-gotransit__963__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_259_bus"/>
+				<departure id="citycast-gotransit__963__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_260_bus"/>
+				<departure id="citycast-gotransit__963__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_261_bus"/>
+				<departure id="citycast-gotransit__963__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_262_bus"/>
+				<departure id="citycast-gotransit__963__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_263_bus"/>
+				<departure id="citycast-gotransit__963__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_264_bus"/>
+				<departure id="citycast-gotransit__963__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_265_bus"/>
+				<departure id="citycast-gotransit__963__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_266_bus"/>
+				<departure id="citycast-gotransit__963__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_267_bus"/>
+				<departure id="citycast-gotransit__963__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_268_bus"/>
+				<departure id="citycast-gotransit__963__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_269_bus"/>
+				<departure id="citycast-gotransit__963__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_270_bus"/>
+				<departure id="citycast-gotransit__963__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_271_bus"/>
+				<departure id="citycast-gotransit__963__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_272_bus"/>
+				<departure id="citycast-gotransit__963__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_273_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__964__0">
+		<transitRoute id="citycast-gotransit__964__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28321.link:pt_citycast-gotransit__28321" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28436.link:pt_citycast-gotransit__28436" arrivalOffset="00:00:54" departureOffset="00:01:14" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28381.link:108724330_F" arrivalOffset="00:01:44" departureOffset="00:02:04" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28382.link:1220705322_F" arrivalOffset="00:02:46" departureOffset="00:03:06" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28383.link:92698632_F" arrivalOffset="00:03:41" departureOffset="00:04:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758974.link:1220703351_F" arrivalOffset="00:05:03" departureOffset="00:05:23" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28305.link:1220703346_F" arrivalOffset="00:05:57" departureOffset="00:06:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28306.link:92696515_F" arrivalOffset="00:07:04" departureOffset="00:07:24" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28307.link:108724334_F" arrivalOffset="00:07:54" departureOffset="00:08:14" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28384.link:1220709944_F" arrivalOffset="00:08:42" departureOffset="00:09:02" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28385.link:92696573_F" arrivalOffset="00:09:39" departureOffset="00:09:59" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28386.link:92696597_F" arrivalOffset="00:10:35" departureOffset="00:10:55" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28387.link:108726974_F" arrivalOffset="00:11:29" departureOffset="00:11:49" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28308.link:pt_citycast-gotransit__28308" arrivalOffset="00:12:56" departureOffset="00:13:16" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__781903.link:pt_citycast-gotransit__781903" arrivalOffset="00:13:48" departureOffset="00:14:08" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:15:08" departureOffset="00:15:28" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28321"/>
+				<link refId="pt_citycast-gotransit__28321_pt_citycast-gotransit__28436"/>
+				<link refId="pt_citycast-gotransit__28436"/>
+				<link refId="pt_citycast-gotransit__28436_108724330_F"/>
+				<link refId="108724330_F"/>
+				<link refId="1220705397_F"/>
+				<link refId="1220705404_F"/>
+				<link refId="1220705412_F"/>
+				<link refId="1220705413_F"/>
+				<link refId="1220705240_F"/>
+				<link refId="1220705262_F"/>
+				<link refId="1220705321_F"/>
+				<link refId="1220705322_F"/>
+				<link refId="92698632_F"/>
+				<link refId="1220703351_F"/>
+				<link refId="1220703352_F"/>
+				<link refId="1220703346_F"/>
+				<link refId="1220703400_F"/>
+				<link refId="1220703401_F"/>
+				<link refId="92696512_F"/>
+				<link refId="92696513_F"/>
+				<link refId="92696514_F"/>
+				<link refId="92696515_F"/>
+				<link refId="108724332_F"/>
+				<link refId="1048447542_F"/>
+				<link refId="1048447543_F"/>
+				<link refId="108724334_F"/>
+				<link refId="1220709924_F"/>
+				<link refId="1220709925_F"/>
+				<link refId="1220709943_F"/>
+				<link refId="1220709944_F"/>
+				<link refId="1048447554_F"/>
+				<link refId="92696571_F"/>
+				<link refId="92696572_F"/>
+				<link refId="92696573_F"/>
+				<link refId="92696574_F"/>
+				<link refId="92696595_F"/>
+				<link refId="92696596_F"/>
+				<link refId="92696597_F"/>
+				<link refId="92696598_F"/>
+				<link refId="92696600_F"/>
+				<link refId="92696601_F"/>
+				<link refId="108726974_F"/>
+				<link refId="pt_108726974_F_citycast-gotransit__28308"/>
+				<link refId="pt_citycast-gotransit__28308"/>
+				<link refId="pt_citycast-gotransit__28308_pt_citycast-gotransit__781903"/>
+				<link refId="pt_citycast-gotransit__781903"/>
+				<link refId="pt_citycast-gotransit__781903_pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__964__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_274_bus"/>
+				<departure id="citycast-gotransit__964__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_275_bus"/>
+				<departure id="citycast-gotransit__964__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_276_bus"/>
+				<departure id="citycast-gotransit__964__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_277_bus"/>
+				<departure id="citycast-gotransit__964__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_278_bus"/>
+				<departure id="citycast-gotransit__964__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_279_bus"/>
+				<departure id="citycast-gotransit__964__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_280_bus"/>
+				<departure id="citycast-gotransit__964__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_281_bus"/>
+				<departure id="citycast-gotransit__964__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_282_bus"/>
+				<departure id="citycast-gotransit__964__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_283_bus"/>
+				<departure id="citycast-gotransit__964__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_284_bus"/>
+				<departure id="citycast-gotransit__964__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_285_bus"/>
+				<departure id="citycast-gotransit__964__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_286_bus"/>
+				<departure id="citycast-gotransit__964__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_287_bus"/>
+				<departure id="citycast-gotransit__964__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_288_bus"/>
+				<departure id="citycast-gotransit__964__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_289_bus"/>
+				<departure id="citycast-gotransit__964__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_290_bus"/>
+				<departure id="citycast-gotransit__964__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_291_bus"/>
+				<departure id="citycast-gotransit__964__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_292_bus"/>
+				<departure id="citycast-gotransit__964__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_293_bus"/>
+				<departure id="citycast-gotransit__964__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_294_bus"/>
+				<departure id="citycast-gotransit__964__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_295_bus"/>
+				<departure id="citycast-gotransit__964__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_296_bus"/>
+				<departure id="citycast-gotransit__964__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_297_bus"/>
+				<departure id="citycast-gotransit__964__0_18:15:00" departureTime="18:15:00" vehicleRefId="veh_298_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__964__1">
+		<transitRoute id="citycast-gotransit__964__1">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28437.link:108726830_R" arrivalOffset="00:01:27" departureOffset="00:01:47" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28438.link:1220830142_R" arrivalOffset="00:02:19" departureOffset="00:02:39" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28439.link:1220707544_R" arrivalOffset="00:03:29" departureOffset="00:03:49" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28440.link:92696494_R" arrivalOffset="00:04:18" departureOffset="00:04:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28441.link:92696493_R" arrivalOffset="00:05:24" departureOffset="00:05:44" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28488.link:930849185_F" arrivalOffset="00:06:32" departureOffset="00:06:52" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28489.link:92698210_F" arrivalOffset="00:07:18" departureOffset="00:07:38" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28490.link:92698207_F" arrivalOffset="00:08:20" departureOffset="00:08:40" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28491.link:92698204_F" arrivalOffset="00:09:26" departureOffset="00:09:46" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28492.link:1220717371_F" arrivalOffset="00:10:43" departureOffset="00:11:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28493.link:1220704612_F" arrivalOffset="00:12:09" departureOffset="00:12:29" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28494.link:1220704999_F" arrivalOffset="00:13:21" departureOffset="00:13:41" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28321.link:pt_citycast-gotransit__28321" arrivalOffset="00:14:00" departureOffset="00:14:20" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313_108726830_R"/>
+				<link refId="108726830_R"/>
+				<link refId="108726829_R"/>
+				<link refId="92696486_R"/>
+				<link refId="92696485_R"/>
+				<link refId="1220830143_R"/>
+				<link refId="1220830142_R"/>
+				<link refId="92696487_R"/>
+				<link refId="92696488_R"/>
+				<link refId="1188382386_R"/>
+				<link refId="1220706928_R"/>
+				<link refId="1220706927_R"/>
+				<link refId="1220707545_R"/>
+				<link refId="1220707544_R"/>
+				<link refId="108726833_R"/>
+				<link refId="92696492_R"/>
+				<link refId="92696494_R"/>
+				<link refId="92696493_R"/>
+				<link refId="92698230_R"/>
+				<link refId="92698229_R"/>
+				<link refId="1127326306_R"/>
+				<link refId="1127326305_R"/>
+				<link refId="930849184_F"/>
+				<link refId="930849185_F"/>
+				<link refId="92698212_R"/>
+				<link refId="92698211_F"/>
+				<link refId="92698210_F"/>
+				<link refId="92698209_R"/>
+				<link refId="20114340_R"/>
+				<link refId="92698208_R"/>
+				<link refId="92698207_F"/>
+				<link refId="92698206_R"/>
+				<link refId="92698205_F"/>
+				<link refId="20112532_R"/>
+				<link refId="92698204_F"/>
+				<link refId="92698203_R"/>
+				<link refId="92698202_F"/>
+				<link refId="1220717370_R"/>
+				<link refId="1220717371_F"/>
+				<link refId="1220717474_F"/>
+				<link refId="1220717518_F"/>
+				<link refId="1220717519_F"/>
+				<link refId="1220704612_F"/>
+				<link refId="1220704639_F"/>
+				<link refId="1220704640_R"/>
+				<link refId="1220704541_F"/>
+				<link refId="1220704542_F"/>
+				<link refId="1127325419_F"/>
+				<link refId="1220704999_F"/>
+				<link refId="pt_1220704999_F_citycast-gotransit__28321"/>
+				<link refId="pt_citycast-gotransit__28321"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__964__1_06:30:00" departureTime="06:30:00" vehicleRefId="veh_299_bus"/>
+				<departure id="citycast-gotransit__964__1_07:00:00" departureTime="07:00:00" vehicleRefId="veh_300_bus"/>
+				<departure id="citycast-gotransit__964__1_07:30:00" departureTime="07:30:00" vehicleRefId="veh_301_bus"/>
+				<departure id="citycast-gotransit__964__1_08:00:00" departureTime="08:00:00" vehicleRefId="veh_302_bus"/>
+				<departure id="citycast-gotransit__964__1_08:30:00" departureTime="08:30:00" vehicleRefId="veh_303_bus"/>
+				<departure id="citycast-gotransit__964__1_09:00:00" departureTime="09:00:00" vehicleRefId="veh_304_bus"/>
+				<departure id="citycast-gotransit__964__1_09:30:00" departureTime="09:30:00" vehicleRefId="veh_305_bus"/>
+				<departure id="citycast-gotransit__964__1_10:00:00" departureTime="10:00:00" vehicleRefId="veh_306_bus"/>
+				<departure id="citycast-gotransit__964__1_10:30:00" departureTime="10:30:00" vehicleRefId="veh_307_bus"/>
+				<departure id="citycast-gotransit__964__1_11:00:00" departureTime="11:00:00" vehicleRefId="veh_308_bus"/>
+				<departure id="citycast-gotransit__964__1_11:30:00" departureTime="11:30:00" vehicleRefId="veh_309_bus"/>
+				<departure id="citycast-gotransit__964__1_12:00:00" departureTime="12:00:00" vehicleRefId="veh_310_bus"/>
+				<departure id="citycast-gotransit__964__1_12:30:00" departureTime="12:30:00" vehicleRefId="veh_311_bus"/>
+				<departure id="citycast-gotransit__964__1_13:00:00" departureTime="13:00:00" vehicleRefId="veh_312_bus"/>
+				<departure id="citycast-gotransit__964__1_13:30:00" departureTime="13:30:00" vehicleRefId="veh_313_bus"/>
+				<departure id="citycast-gotransit__964__1_14:00:00" departureTime="14:00:00" vehicleRefId="veh_314_bus"/>
+				<departure id="citycast-gotransit__964__1_14:30:00" departureTime="14:30:00" vehicleRefId="veh_315_bus"/>
+				<departure id="citycast-gotransit__964__1_15:00:00" departureTime="15:00:00" vehicleRefId="veh_316_bus"/>
+				<departure id="citycast-gotransit__964__1_15:30:00" departureTime="15:30:00" vehicleRefId="veh_317_bus"/>
+				<departure id="citycast-gotransit__964__1_16:00:00" departureTime="16:00:00" vehicleRefId="veh_318_bus"/>
+				<departure id="citycast-gotransit__964__1_16:30:00" departureTime="16:30:00" vehicleRefId="veh_319_bus"/>
+				<departure id="citycast-gotransit__964__1_17:00:00" departureTime="17:00:00" vehicleRefId="veh_320_bus"/>
+				<departure id="citycast-gotransit__964__1_17:30:00" departureTime="17:30:00" vehicleRefId="veh_321_bus"/>
+				<departure id="citycast-gotransit__964__1_18:00:00" departureTime="18:00:00" vehicleRefId="veh_322_bus"/>
+				<departure id="citycast-gotransit__964__1_18:30:00" departureTime="18:30:00" vehicleRefId="veh_323_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__965__0">
+		<transitRoute id="citycast-gotransit__965__0">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28318.link:1192800249" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28427.link:1220711755" arrivalOffset="00:00:46" departureOffset="00:01:06" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28495.link:1220713812_R" arrivalOffset="00:01:46" departureOffset="00:02:06" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28443.link:pt_citycast-gotransit__28443" arrivalOffset="00:02:41" departureOffset="00:03:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28309.link:pt_citycast-gotransit__28309" arrivalOffset="00:03:24" departureOffset="00:03:44" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758975.link:pt_citycast-gotransit__758975" arrivalOffset="00:04:06" departureOffset="00:04:26" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__759365.link:pt_citycast-gotransit__759365" arrivalOffset="00:04:59" departureOffset="00:05:19" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__759366.link:pt_citycast-gotransit__759366" arrivalOffset="00:06:12" departureOffset="00:06:32" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__759367.link:1192797911" arrivalOffset="00:06:50" departureOffset="00:07:10" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28446.link:pt_citycast-gotransit__28446" arrivalOffset="00:07:43" departureOffset="00:08:03" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28447.link:pt_citycast-gotransit__28447" arrivalOffset="00:09:15" departureOffset="00:09:35" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__806528.link:pt_citycast-gotransit__806528" arrivalOffset="00:10:05" departureOffset="00:10:25" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28448.link:pt_citycast-gotransit__28448" arrivalOffset="00:10:57" departureOffset="00:11:17" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28449.link:1192798218" arrivalOffset="00:11:44" departureOffset="00:12:04" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28496.link:pt_citycast-gotransit__28496" arrivalOffset="00:12:55" departureOffset="00:13:15" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28497.link:pt_citycast-gotransit__28497" arrivalOffset="00:13:58" departureOffset="00:14:18" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758977.link:pt_citycast-gotransit__758977" arrivalOffset="00:14:56" departureOffset="00:15:16" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28498.link:pt_citycast-gotransit__28498" arrivalOffset="00:15:32" departureOffset="00:15:52" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758978.link:711763995_F" arrivalOffset="00:16:52" departureOffset="00:17:12" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28388.link:711763996_F" arrivalOffset="00:18:06" departureOffset="00:18:26" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758979.link:1220714626_F" arrivalOffset="00:19:07" departureOffset="00:19:27" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28503.link:pt_citycast-gotransit__28503" arrivalOffset="00:20:55" departureOffset="00:21:15" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28324.link:pt_citycast-gotransit__28324" arrivalOffset="00:22:04" departureOffset="00:22:24" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28389.link:1220715036_F" arrivalOffset="00:24:27" departureOffset="00:24:47" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28390.link:103106480_F" arrivalOffset="00:25:47" departureOffset="00:26:07" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28391.link:116105157_F" arrivalOffset="00:26:54" departureOffset="00:27:14" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28392.link:1220710084_F" arrivalOffset="00:28:09" departureOffset="00:28:29" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__759368.link:pt_citycast-gotransit__759368" arrivalOffset="00:28:58" departureOffset="00:29:18" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28393.link:103105762_F" arrivalOffset="00:29:39" departureOffset="00:29:59" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__770329.link:92696789_F" arrivalOffset="00:31:28" departureOffset="00:31:48" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__758976.link:108725694_R" arrivalOffset="00:32:15" departureOffset="00:32:35" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28310.link:1220703586_R" arrivalOffset="00:33:34" departureOffset="00:33:54" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28318.link:1192800249" arrivalOffset="00:34:35" departureOffset="00:34:55" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="1192800249"/>
+				<link refId="130094234"/>
+				<link refId="924357929"/>
+				<link refId="1220711755"/>
+				<link refId="1220711754"/>
+				<link refId="924357930"/>
+				<link refId="1220711996"/>
+				<link refId="1220712222"/>
+				<link refId="1220712221"/>
+				<link refId="924357937"/>
+				<link refId="924357969"/>
+				<link refId="924357970"/>
+				<link refId="924357933"/>
+				<link refId="924357934"/>
+				<link refId="924357932"/>
+				<link refId="1220713734"/>
+				<link refId="1220713733"/>
+				<link refId="1220713812_R"/>
+				<link refId="pt_1220713812_R_citycast-gotransit__28443"/>
+				<link refId="pt_citycast-gotransit__28443"/>
+				<link refId="pt_citycast-gotransit__28443_pt_citycast-gotransit__28309"/>
+				<link refId="pt_citycast-gotransit__28309"/>
+				<link refId="pt_citycast-gotransit__28309_pt_citycast-gotransit__758975"/>
+				<link refId="pt_citycast-gotransit__758975"/>
+				<link refId="pt_citycast-gotransit__758975_pt_citycast-gotransit__759365"/>
+				<link refId="pt_citycast-gotransit__759365"/>
+				<link refId="pt_citycast-gotransit__759365_pt_citycast-gotransit__759366"/>
+				<link refId="pt_citycast-gotransit__759366"/>
+				<link refId="pt_citycast-gotransit__759366_1192797911"/>
+				<link refId="1192797911"/>
+				<link refId="pt_1192797911_citycast-gotransit__28446"/>
+				<link refId="pt_citycast-gotransit__28446"/>
+				<link refId="pt_citycast-gotransit__28446_pt_citycast-gotransit__28447"/>
+				<link refId="pt_citycast-gotransit__28447"/>
+				<link refId="pt_citycast-gotransit__28447_pt_citycast-gotransit__806528"/>
+				<link refId="pt_citycast-gotransit__806528"/>
+				<link refId="pt_citycast-gotransit__806528_pt_citycast-gotransit__28448"/>
+				<link refId="pt_citycast-gotransit__28448"/>
+				<link refId="pt_citycast-gotransit__28448_1192798218"/>
+				<link refId="1192798218"/>
+				<link refId="pt_1192798218_citycast-gotransit__28496"/>
+				<link refId="pt_citycast-gotransit__28496"/>
+				<link refId="pt_citycast-gotransit__28496_pt_citycast-gotransit__28497"/>
+				<link refId="pt_citycast-gotransit__28497"/>
+				<link refId="pt_citycast-gotransit__28497_pt_citycast-gotransit__758977"/>
+				<link refId="pt_citycast-gotransit__758977"/>
+				<link refId="pt_citycast-gotransit__758977_pt_citycast-gotransit__28498"/>
+				<link refId="pt_citycast-gotransit__28498"/>
+				<link refId="pt_citycast-gotransit__28498_711763995_F"/>
+				<link refId="711763995_F"/>
+				<link refId="711763996_F"/>
+				<link refId="103107051_F"/>
+				<link refId="1220714626_F"/>
+				<link refId="pt_1220714626_F_citycast-gotransit__28503"/>
+				<link refId="pt_citycast-gotransit__28503"/>
+				<link refId="pt_citycast-gotransit__28503_pt_citycast-gotransit__28324"/>
+				<link refId="pt_citycast-gotransit__28324"/>
+				<link refId="pt_citycast-gotransit__28324_1220715036_F"/>
+				<link refId="1220715036_F"/>
+				<link refId="103106698_F"/>
+				<link refId="103480189_F"/>
+				<link refId="103480190_F"/>
+				<link refId="103457392_F"/>
+				<link refId="103106480_F"/>
+				<link refId="1171874765_F"/>
+				<link refId="1171874766_F"/>
+				<link refId="1171874767_F"/>
+				<link refId="116105157_F"/>
+				<link refId="103480117_F"/>
+				<link refId="1220710083_F"/>
+				<link refId="1220710084_F"/>
+				<link refId="pt_1220710084_F_citycast-gotransit__759368"/>
+				<link refId="pt_citycast-gotransit__759368"/>
+				<link refId="pt_citycast-gotransit__759368_103105762_F"/>
+				<link refId="103105762_F"/>
+				<link refId="103105726_F"/>
+				<link refId="1220703384_F"/>
+				<link refId="1220703385_F"/>
+				<link refId="1220703378_F"/>
+				<link refId="1220703422_F"/>
+				<link refId="1220703421_R"/>
+				<link refId="123266723_F"/>
+				<link refId="123266724_F"/>
+				<link refId="92696791_F"/>
+				<link refId="92696790_F"/>
+				<link refId="92696789_F"/>
+				<link refId="108725694_R"/>
+				<link refId="108725693_R"/>
+				<link refId="92696784_F"/>
+				<link refId="1220703587_F"/>
+				<link refId="1220703586_R"/>
+				<link refId="1220703586_F"/>
+				<link refId="1220703587_R"/>
+				<link refId="92696784_R"/>
+				<link refId="108725693_F"/>
+				<link refId="108725694_F"/>
+				<link refId="92696789_R"/>
+				<link refId="92696790_R"/>
+				<link refId="92696791_R"/>
+				<link refId="123266724_R"/>
+				<link refId="123266723_R"/>
+				<link refId="1220703421_F"/>
+				<link refId="1220703422_R"/>
+				<link refId="1220703462_F"/>
+				<link refId="1220703584_F"/>
+				<link refId="1220703585_F"/>
+				<link refId="1220703615_F"/>
+				<link refId="1220703633_F"/>
+				<link refId="1220703634_F"/>
+				<link refId="103105326_F"/>
+				<link refId="103105168_F"/>
+				<link refId="116090082_F"/>
+				<link refId="116090083_F"/>
+				<link refId="103104917_F"/>
+				<link refId="116090060_F"/>
+				<link refId="1205738789_F"/>
+				<link refId="1205738790_F"/>
+				<link refId="1205738776_F"/>
+				<link refId="1205739890"/>
+				<link refId="1205739891"/>
+				<link refId="830403535"/>
+				<link refId="1205857471"/>
+				<link refId="1205857472"/>
+				<link refId="1205857463"/>
+				<link refId="1205857440"/>
+				<link refId="1205920760"/>
+				<link refId="1205920761"/>
+				<link refId="130092859"/>
+				<link refId="979869270"/>
+				<link refId="979869266"/>
+				<link refId="979869265"/>
+				<link refId="130092781"/>
+				<link refId="979860108"/>
+				<link refId="979860109"/>
+				<link refId="979866125"/>
+				<link refId="979866124"/>
+				<link refId="1192794531"/>
+				<link refId="1201916756"/>
+				<link refId="1201916755"/>
+				<link refId="92696843"/>
+				<link refId="1192800248"/>
+				<link refId="1192800250"/>
+				<link refId="1192800249"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__965__0_06:15:00" departureTime="06:15:00" vehicleRefId="veh_324_bus"/>
+				<departure id="citycast-gotransit__965__0_06:45:00" departureTime="06:45:00" vehicleRefId="veh_325_bus"/>
+				<departure id="citycast-gotransit__965__0_07:15:00" departureTime="07:15:00" vehicleRefId="veh_326_bus"/>
+				<departure id="citycast-gotransit__965__0_07:45:00" departureTime="07:45:00" vehicleRefId="veh_327_bus"/>
+				<departure id="citycast-gotransit__965__0_08:15:00" departureTime="08:15:00" vehicleRefId="veh_328_bus"/>
+				<departure id="citycast-gotransit__965__0_08:45:00" departureTime="08:45:00" vehicleRefId="veh_329_bus"/>
+				<departure id="citycast-gotransit__965__0_09:15:00" departureTime="09:15:00" vehicleRefId="veh_330_bus"/>
+				<departure id="citycast-gotransit__965__0_09:45:00" departureTime="09:45:00" vehicleRefId="veh_331_bus"/>
+				<departure id="citycast-gotransit__965__0_10:15:00" departureTime="10:15:00" vehicleRefId="veh_332_bus"/>
+				<departure id="citycast-gotransit__965__0_10:45:00" departureTime="10:45:00" vehicleRefId="veh_333_bus"/>
+				<departure id="citycast-gotransit__965__0_11:15:00" departureTime="11:15:00" vehicleRefId="veh_334_bus"/>
+				<departure id="citycast-gotransit__965__0_11:45:00" departureTime="11:45:00" vehicleRefId="veh_335_bus"/>
+				<departure id="citycast-gotransit__965__0_12:15:00" departureTime="12:15:00" vehicleRefId="veh_336_bus"/>
+				<departure id="citycast-gotransit__965__0_12:45:00" departureTime="12:45:00" vehicleRefId="veh_337_bus"/>
+				<departure id="citycast-gotransit__965__0_13:15:00" departureTime="13:15:00" vehicleRefId="veh_338_bus"/>
+				<departure id="citycast-gotransit__965__0_13:45:00" departureTime="13:45:00" vehicleRefId="veh_339_bus"/>
+				<departure id="citycast-gotransit__965__0_14:15:00" departureTime="14:15:00" vehicleRefId="veh_340_bus"/>
+				<departure id="citycast-gotransit__965__0_14:45:00" departureTime="14:45:00" vehicleRefId="veh_341_bus"/>
+				<departure id="citycast-gotransit__965__0_15:15:00" departureTime="15:15:00" vehicleRefId="veh_342_bus"/>
+				<departure id="citycast-gotransit__965__0_15:45:00" departureTime="15:45:00" vehicleRefId="veh_343_bus"/>
+				<departure id="citycast-gotransit__965__0_16:15:00" departureTime="16:15:00" vehicleRefId="veh_344_bus"/>
+				<departure id="citycast-gotransit__965__0_16:45:00" departureTime="16:45:00" vehicleRefId="veh_345_bus"/>
+				<departure id="citycast-gotransit__965__0_17:15:00" departureTime="17:15:00" vehicleRefId="veh_346_bus"/>
+				<departure id="citycast-gotransit__965__0_17:45:00" departureTime="17:45:00" vehicleRefId="veh_347_bus"/>
+				<departure id="citycast-gotransit__965__0_18:15:00" departureTime="18:15:00" vehicleRefId="veh_348_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+	<transitLine id="citycast-gotransit__966__1">
+		<transitRoute id="citycast-gotransit__966__1">
+			<transportMode>bus</transportMode>
+			<routeProfile>
+				<stop refId="citycast-gotransit__28505.link:pt_citycast-gotransit__28505" arrivalOffset="00:00:00" departureOffset="00:00:20" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28326.link:1220832182_R" arrivalOffset="00:03:41" departureOffset="00:04:01" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28454.link:116088482_R" arrivalOffset="00:26:28" departureOffset="00:26:48" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28422.link:1220717091_R" arrivalOffset="00:34:32" departureOffset="00:34:52" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28290.link:1048535236" arrivalOffset="00:38:33" departureOffset="00:38:53" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__761640.link:1048876277" arrivalOffset="00:40:34" departureOffset="00:40:54" awaitDeparture="true"/>
+				<stop refId="citycast-gotransit__28313.link:pt_citycast-gotransit__28313" arrivalOffset="00:41:49" departureOffset="00:42:09" awaitDeparture="true"/>
+			</routeProfile>
+			<route>
+				<link refId="pt_citycast-gotransit__28505"/>
+				<link refId="pt_citycast-gotransit__28505_1220832182_R"/>
+				<link refId="1220832182_R"/>
+				<link refId="1220836454"/>
+				<link refId="1220836455"/>
+				<link refId="868845000"/>
+				<link refId="868845001"/>
+				<link refId="868844999"/>
+				<link refId="1048564295"/>
+				<link refId="1220835751"/>
+				<link refId="1220835750"/>
+				<link refId="1048564289"/>
+				<link refId="868841080"/>
+				<link refId="868841081"/>
+				<link refId="868841079"/>
+				<link refId="1048564310"/>
+				<link refId="1048564312"/>
+				<link refId="1048564311"/>
+				<link refId="868841192"/>
+				<link refId="116096528"/>
+				<link refId="116096522"/>
+				<link refId="108728897"/>
+				<link refId="108728907"/>
+				<link refId="1192852047"/>
+				<link refId="1192852046"/>
+				<link refId="1192852048"/>
+				<link refId="1192852050"/>
+				<link refId="1192852049"/>
+				<link refId="1201915711"/>
+				<link refId="1201915710"/>
+				<link refId="130094264"/>
+				<link refId="130094260"/>
+				<link refId="130094257"/>
+				<link refId="913479052"/>
+				<link refId="1192850968"/>
+				<link refId="1192850969"/>
+				<link refId="1192850971"/>
+				<link refId="1192850970"/>
+				<link refId="111848105"/>
+				<link refId="111848104"/>
+				<link refId="116117123"/>
+				<link refId="116117122"/>
+				<link refId="111848138"/>
+				<link refId="1192740778"/>
+				<link refId="1192740777"/>
+				<link refId="1220830792"/>
+				<link refId="1220830791"/>
+				<link refId="111850941"/>
+				<link refId="20094461"/>
+				<link refId="1220830720"/>
+				<link refId="1220830719"/>
+				<link refId="111850928"/>
+				<link refId="20094485"/>
+				<link refId="108728445_R"/>
+				<link refId="108738101_R"/>
+				<link refId="1220703847_R"/>
+				<link refId="1220703869_R"/>
+				<link refId="1220703868_R"/>
+				<link refId="1220703862_R"/>
+				<link refId="1220704070_R"/>
+				<link refId="1220704069_R"/>
+				<link refId="1220704065_R"/>
+				<link refId="1220704057_R"/>
+				<link refId="1190509656_R"/>
+				<link refId="1220705601_R"/>
+				<link refId="1220705600_R"/>
+				<link refId="116088482_R"/>
+				<link refId="108730218_R"/>
+				<link refId="111848612_R"/>
+				<link refId="782702267_R"/>
+				<link refId="1220705424_R"/>
+				<link refId="1220705470_R"/>
+				<link refId="1220705469_R"/>
+				<link refId="1220705095_R"/>
+				<link refId="1220705094_R"/>
+				<link refId="980182939_R"/>
+				<link refId="1220705117_R"/>
+				<link refId="1220705116_R"/>
+				<link refId="108730219_R"/>
+				<link refId="1187627019_R"/>
+				<link refId="1187627018_R"/>
+				<link refId="108730403_R"/>
+				<link refId="1187715114_R"/>
+				<link refId="1220829452_R"/>
+				<link refId="1236708019_R"/>
+				<link refId="1236708018_R"/>
+				<link refId="1220829412_R"/>
+				<link refId="1220829411_R"/>
+				<link refId="1187715115_R"/>
+				<link refId="1187627021_R"/>
+				<link refId="1187627020_R"/>
+				<link refId="1220829329_R"/>
+				<link refId="1220829328_R"/>
+				<link refId="1220829262_R"/>
+				<link refId="92696682_R"/>
+				<link refId="1220717186_R"/>
+				<link refId="1220717185_R"/>
+				<link refId="1220717157_R"/>
+				<link refId="1220717156_R"/>
+				<link refId="1220717099_R"/>
+				<link refId="1220717092_R"/>
+				<link refId="1220717091_R"/>
+				<link refId="838254375_R"/>
+				<link refId="1220830011_R"/>
+				<link refId="1220830010_R"/>
+				<link refId="1187177868_R"/>
+				<link refId="838254377"/>
+				<link refId="1220829162_R"/>
+				<link refId="1220829161_R"/>
+				<link refId="1220718026_R"/>
+				<link refId="839183100_R"/>
+				<link refId="1220828847_R"/>
+				<link refId="1220828846_R"/>
+				<link refId="92696655_R"/>
+				<link refId="92696654_R"/>
+				<link refId="92696653_R"/>
+				<link refId="92696652_R"/>
+				<link refId="92696651_R"/>
+				<link refId="1187614734_R"/>
+				<link refId="1187614733_R"/>
+				<link refId="1187177581_R"/>
+				<link refId="1187614728_R"/>
+				<link refId="1187614727_R"/>
+				<link refId="1220830294_R"/>
+				<link refId="1220830293_R"/>
+				<link refId="1220830292_R"/>
+				<link refId="1220830291_R"/>
+				<link refId="1220716273_R"/>
+				<link refId="1220716272_R"/>
+				<link refId="1220715967_R"/>
+				<link refId="1220715966_R"/>
+				<link refId="92696643_R"/>
+				<link refId="1220718867_R"/>
+				<link refId="1220718866_R"/>
+				<link refId="92700130_R"/>
+				<link refId="108727089_R"/>
+				<link refId="108727088_R"/>
+				<link refId="1220717776"/>
+				<link refId="1220717775"/>
+				<link refId="1220716842"/>
+				<link refId="1220716841"/>
+				<link refId="1127325414"/>
+				<link refId="1048879872"/>
+				<link refId="1048879871"/>
+				<link refId="103104829"/>
+				<link refId="1048525904"/>
+				<link refId="1048525903"/>
+				<link refId="1048525772"/>
+				<link refId="1048525771"/>
+				<link refId="1048535233"/>
+				<link refId="1048535232"/>
+				<link refId="1048535237"/>
+				<link refId="1048535236"/>
+				<link refId="1048525734"/>
+				<link refId="1048525704"/>
+				<link refId="1048525703"/>
+				<link refId="1048987390"/>
+				<link refId="1048987389"/>
+				<link refId="1048525738"/>
+				<link refId="1048535281"/>
+				<link refId="1048535280"/>
+				<link refId="1048525761"/>
+				<link refId="1048525869"/>
+				<link refId="1048525871"/>
+				<link refId="1048525870"/>
+				<link refId="103105377"/>
+				<link refId="1048876277"/>
+				<link refId="pt_1048876277_citycast-gotransit__28313"/>
+				<link refId="pt_citycast-gotransit__28313"/>
+			</route>
+			<departures>
+				<departure id="citycast-gotransit__966__1_06:30:00" departureTime="06:30:00" vehicleRefId="veh_349_bus"/>
+				<departure id="citycast-gotransit__966__1_07:15:00" departureTime="07:15:00" vehicleRefId="veh_350_bus"/>
+				<departure id="citycast-gotransit__966__1_07:50:00" departureTime="07:50:00" vehicleRefId="veh_351_bus"/>
+				<departure id="citycast-gotransit__966__1_08:00:00" departureTime="08:00:00" vehicleRefId="veh_352_bus"/>
+				<departure id="citycast-gotransit__966__1_08:45:00" departureTime="08:45:00" vehicleRefId="veh_353_bus"/>
+				<departure id="citycast-gotransit__966__1_08:50:00" departureTime="08:50:00" vehicleRefId="veh_354_bus"/>
+				<departure id="citycast-gotransit__966__1_09:30:00" departureTime="09:30:00" vehicleRefId="veh_355_bus"/>
+				<departure id="citycast-gotransit__966__1_09:50:00" departureTime="09:50:00" vehicleRefId="veh_356_bus"/>
+				<departure id="citycast-gotransit__966__1_10:15:00" departureTime="10:15:00" vehicleRefId="veh_357_bus"/>
+				<departure id="citycast-gotransit__966__1_10:50:00" departureTime="10:50:00" vehicleRefId="veh_358_bus"/>
+				<departure id="citycast-gotransit__966__1_11:50:00" departureTime="11:50:00" vehicleRefId="veh_359_bus"/>
+				<departure id="citycast-gotransit__966__1_12:00:00" departureTime="12:00:00" vehicleRefId="veh_360_bus"/>
+				<departure id="citycast-gotransit__966__1_12:45:00" departureTime="12:45:00" vehicleRefId="veh_361_bus"/>
+				<departure id="citycast-gotransit__966__1_12:50:00" departureTime="12:50:00" vehicleRefId="veh_362_bus"/>
+				<departure id="citycast-gotransit__966__1_13:30:00" departureTime="13:30:00" vehicleRefId="veh_363_bus"/>
+				<departure id="citycast-gotransit__966__1_13:50:00" departureTime="13:50:00" vehicleRefId="veh_364_bus"/>
+				<departure id="citycast-gotransit__966__1_14:15:00" departureTime="14:15:00" vehicleRefId="veh_365_bus"/>
+				<departure id="citycast-gotransit__966__1_14:50:00" departureTime="14:50:00" vehicleRefId="veh_366_bus"/>
+				<departure id="citycast-gotransit__966__1_15:00:00" departureTime="15:00:00" vehicleRefId="veh_367_bus"/>
+				<departure id="citycast-gotransit__966__1_15:45:00" departureTime="15:45:00" vehicleRefId="veh_368_bus"/>
+				<departure id="citycast-gotransit__966__1_16:40:00" departureTime="16:40:00" vehicleRefId="veh_369_bus"/>
+				<departure id="citycast-gotransit__966__1_17:15:00" departureTime="17:15:00" vehicleRefId="veh_370_bus"/>
+				<departure id="citycast-gotransit__966__1_18:00:00" departureTime="18:00:00" vehicleRefId="veh_371_bus"/>
+			</departures>
+		</transitRoute>
+	</transitLine>
+</transitSchedule>
