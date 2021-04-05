@@ -1,5 +1,6 @@
 output/
-
+convert/SF-CHAMP Outputs
+convert/SF_CHAMP_Converted
 slc-tscore/MM_NetworkDataset_07272020.gdb/*
 slc-tscore/agrc_network.zip
 slc-tscore/slc.gtfs/*
