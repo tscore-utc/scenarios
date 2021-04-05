@@ -26,5 +26,5 @@ leg mode:
 
 Trip main mode type (walk, bike, drive/passenger, walk to transit, drive to transit, ride-hail, other
 
-If dorp=1, mode was "drive" for hov/sov. If dorp=2, mode was "passenger".
+If dorp=1, mode was "car" for hov/sov. If dorp=2, mode was "passenger".
     
