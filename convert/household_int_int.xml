@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<households xmlns="http://www.matsim.org/files/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.matsim.org/files/dtd http://www.matsim.org/files/dtd/households_v1.0.xsd">
- 
-</households>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d2ad23acbb34cbc495abdf3b738f132321092c7111156939ee84a7047cc4655
+size 267
