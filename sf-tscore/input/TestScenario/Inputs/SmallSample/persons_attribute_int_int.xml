@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE objectAttributes SYSTEM "http://matsim.org/files/dtd/objectattributes_v1.dtd">
+<objectAttributes>
+  <object id="9-1">
+    <attribute name="age" class="java.lang.Integer">54</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="5-1">
+    <attribute name="age" class="java.lang.Integer">79</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="15-2">
+    <attribute name="age" class="java.lang.Integer">66</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="20-2">
+    <attribute name="age" class="java.lang.Integer">55</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="1-1">
+    <attribute name="age" class="java.lang.Integer">55</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String">car</attribute>
+  </object>
+  <object id="11-1">
+    <attribute name="age" class="java.lang.Integer">68</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="10-1">
+    <attribute name="age" class="java.lang.Integer">51</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String">car</attribute>
+  </object>
+  <object id="3-1">
+    <attribute name="age" class="java.lang.Integer">47</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String">car</attribute>
+  </object>
+  <object id="31-1">
+    <attribute name="age" class="java.lang.Integer">60</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="21-1">
+    <attribute name="age" class="java.lang.Integer">63</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="42-1">
+    <attribute name="age" class="java.lang.Integer">38</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="42-2">
+    <attribute name="age" class="java.lang.Integer">38</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="42-3">
+    <attribute name="age" class="java.lang.Integer">6</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="42-4">
+    <attribute name="age" class="java.lang.Integer">3</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="32-2">
+    <attribute name="age" class="java.lang.Integer">78</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="4-1">
+    <attribute name="age" class="java.lang.Integer">71</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String">car</attribute>
+  </object>
+  <object id="45-2">
+    <attribute name="age" class="java.lang.Integer">41</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="45-3">
+    <attribute name="age" class="java.lang.Integer">12</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="48-2">
+    <attribute name="age" class="java.lang.Integer">25</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="48-3">
+    <attribute name="age" class="java.lang.Integer">5</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="57-2">
+    <attribute name="age" class="java.lang.Integer">18</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="57-3">
+    <attribute name="age" class="java.lang.Integer">14</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="57-4">
+    <attribute name="age" class="java.lang.Integer">12</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="57-5">
+    <attribute name="age" class="java.lang.Integer">12</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="57-6">
+    <attribute name="age" class="java.lang.Integer">3</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="57-7">
+    <attribute name="age" class="java.lang.Integer">2</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="34-1">
+    <attribute name="age" class="java.lang.Integer">46</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="34-2">
+    <attribute name="age" class="java.lang.Integer">4</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="16-1">
+    <attribute name="age" class="java.lang.Integer">71</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="27-1">
+    <attribute name="age" class="java.lang.Integer">60</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="27-2">
+    <attribute name="age" class="java.lang.Integer">58</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="7-1">
+    <attribute name="age" class="java.lang.Integer">93</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String">car</attribute>
+  </object>
+  <object id="19-1">
+    <attribute name="age" class="java.lang.Integer">59</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="19-2">
+    <attribute name="age" class="java.lang.Integer">56</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="23-2">
+    <attribute name="age" class="java.lang.Integer">65</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="24-1">
+    <attribute name="age" class="java.lang.Integer">78</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="24-2">
+    <attribute name="age" class="java.lang.Integer">71</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="37-1">
+    <attribute name="age" class="java.lang.Integer">79</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="35-1">
+    <attribute name="age" class="java.lang.Integer">25</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="35-2">
+    <attribute name="age" class="java.lang.Integer">3</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="35-3">
+    <attribute name="age" class="java.lang.Integer">24</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="12-1">
+    <attribute name="age" class="java.lang.Integer">50</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="36-2">
+    <attribute name="age" class="java.lang.Integer">67</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="36-3">
+    <attribute name="age" class="java.lang.Integer">93</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="25-1">
+    <attribute name="age" class="java.lang.Integer">77</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="6-1">
+    <attribute name="age" class="java.lang.Integer">85</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="66-7">
+    <attribute name="age" class="java.lang.Integer">0</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="38-2">
+    <attribute name="age" class="java.lang.Integer">60</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="38-3">
+    <attribute name="age" class="java.lang.Integer">26</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="26-1">
+    <attribute name="age" class="java.lang.Integer">60</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="29-1">
+    <attribute name="age" class="java.lang.Integer">61</attribute>
+    <attribute name="sex" class="java.lang.String">male</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+  <object id="29-2">
+    <attribute name="age" class="java.lang.Integer">58</attribute>
+    <attribute name="sex" class="java.lang.String">female</attribute>
+    <attribute name="excluded-modes" class="java.lang.String"></attribute>
+  </object>
+</objectAttributes>

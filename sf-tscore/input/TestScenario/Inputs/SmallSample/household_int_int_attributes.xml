@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE objectAttributes SYSTEM "http://matsim.org/files/dtd/objectattributes_v1.dtd">
+<objectAttributes>
+  <object id="1">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="10">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="11">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="12">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="15">
+    <attribute name="homecoordx" class="java.lang.Double">551814.5200389642</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173806.570214119</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="16">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="19">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="20">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="21">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="23">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="24">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="25">
+    <attribute name="homecoordx" class="java.lang.Double">551508.0702816327</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173645.0293372036</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="26">
+    <attribute name="homecoordx" class="java.lang.Double">551508.0702816327</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173645.0293372036</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="27">
+    <attribute name="homecoordx" class="java.lang.Double">551814.5200389642</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173806.570214119</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="29">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="3">
+    <attribute name="homecoordx" class="java.lang.Double">551814.5200389642</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173806.570214119</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="31">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="32">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="34">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="35">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="36">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="37">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="38">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="4">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="42">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="45">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="48">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="5">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="57">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="6">
+    <attribute name="homecoordx" class="java.lang.Double">551814.5200389642</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173806.570214119</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="66">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="7">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+  <object id="9">
+    <attribute name="homecoordx" class="java.lang.Double">551662.4417436641</attribute>
+    <attribute name="homecoordy" class="java.lang.Double">4173738.730246837</attribute>
+    <attribute name="housingtype" class="java.lang.String">House</attribute>
+  </object>
+</objectAttributes>

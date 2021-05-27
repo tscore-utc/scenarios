@@ -1,0 +1,314 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<households xmlns="http://www.matsim.org/files/dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.matsim.org/files/dtd http://www.matsim.org/files/dtd/households_v1.0.xsd">
+  <household id="1">
+    <members>
+      <personId refId="1-1"/>
+    </members>
+    <income period="year" currency="usd">942</income>
+  </household>
+  <household id="10">
+    <members>
+      <personId refId="10-1"/>
+    </members>
+    <income period="year" currency="usd">28888</income>
+  </household>
+  <household id="11">
+    <members>
+      <personId refId="11-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-11-0"/>
+    </vehicles>
+    <income period="year" currency="usd">36157</income>
+  </household>
+  <household id="12">
+    <members>
+      <personId refId="12-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-12-0"/>
+    </vehicles>
+    <income period="year" currency="usd">51420</income>
+  </household>
+  <household id="15">
+    <members>
+      <personId refId="15-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-15-0"/>
+    </vehicles>
+    <income period="year" currency="usd">9165</income>
+  </household>
+  <household id="16">
+    <members>
+      <personId refId="16-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-16-0"/>
+    </vehicles>
+    <income period="year" currency="usd">21724</income>
+  </household>
+  <household id="19">
+    <members>
+      <personId refId="19-1"/>
+      <personId refId="19-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-19-0"/>
+      <vehicleDefinitionId refId="auto-19-1"/>
+      <vehicleDefinitionId refId="auto-19-2"/>
+    </vehicles>
+    <income period="year" currency="usd">30842</income>
+  </household>
+  <household id="20">
+    <members>
+      <personId refId="20-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-20-0"/>
+    </vehicles>
+    <income period="year" currency="usd">36487</income>
+  </household>
+  <household id="21">
+    <members>
+      <personId refId="21-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-21-0"/>
+      <vehicleDefinitionId refId="auto-21-1"/>
+    </vehicles>
+    <income period="year" currency="usd">30873</income>
+  </household>
+  <household id="23">
+    <members>
+      <personId refId="23-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-23-0"/>
+      <vehicleDefinitionId refId="auto-23-1"/>
+    </vehicles>
+    <income period="year" currency="usd">33876</income>
+  </household>
+  <household id="24">
+    <members>
+      <personId refId="24-1"/>
+      <personId refId="24-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-24-0"/>
+    </vehicles>
+    <income period="year" currency="usd">34367</income>
+  </household>
+  <household id="25">
+    <members>
+      <personId refId="25-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-25-0"/>
+    </vehicles>
+    <income period="year" currency="usd">41314</income>
+  </household>
+  <household id="26">
+    <members>
+      <personId refId="26-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-26-0"/>
+    </vehicles>
+    <income period="year" currency="usd">56246</income>
+  </household>
+  <household id="27">
+    <members>
+      <personId refId="27-1"/>
+      <personId refId="27-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-27-0"/>
+      <vehicleDefinitionId refId="auto-27-1"/>
+    </vehicles>
+    <income period="year" currency="usd">145947</income>
+  </household>
+  <household id="29">
+    <members>
+      <personId refId="29-1"/>
+      <personId refId="29-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-29-0"/>
+    </vehicles>
+    <income period="year" currency="usd">79171</income>
+  </household>
+  <household id="3">
+    <members>
+      <personId refId="3-1"/>
+    </members>
+    <income period="year" currency="usd">8728</income>
+  </household>
+  <household id="31">
+    <members>
+      <personId refId="31-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-31-0"/>
+    </vehicles>
+    <income period="year" currency="usd">32403</income>
+  </household>
+  <household id="32">
+    <members>
+      <personId refId="32-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-32-0"/>
+    </vehicles>
+    <income period="year" currency="usd">29812</income>
+  </household>
+  <household id="34">
+    <members>
+      <personId refId="34-1"/>
+      <personId refId="34-2"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-34-0"/>
+      <vehicleDefinitionId refId="auto-34-1"/>
+    </vehicles>
+    <income period="year" currency="usd">37706</income>
+  </household>
+  <household id="35">
+    <members>
+      <personId refId="35-1"/>
+      <personId refId="35-2"/>
+      <personId refId="35-3"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-35-0"/>
+    </vehicles>
+    <income period="year" currency="usd">26734</income>
+  </household>
+  <household id="36">
+    <members>
+      <personId refId="36-2"/>
+      <personId refId="36-3"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-36-0"/>
+    </vehicles>
+    <income period="year" currency="usd">35701</income>
+  </household>
+  <household id="37">
+    <members>
+      <personId refId="37-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-37-0"/>
+      <vehicleDefinitionId refId="auto-37-1"/>
+    </vehicles>
+    <income period="year" currency="usd">27211</income>
+  </household>
+  <household id="38">
+    <members>
+      <personId refId="38-2"/>
+      <personId refId="38-3"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-38-0"/>
+    </vehicles>
+    <income period="year" currency="usd">49863</income>
+  </household>
+  <household id="4">
+    <members>
+      <personId refId="4-1"/>
+    </members>
+    <income period="year" currency="usd">5052</income>
+  </household>
+  <household id="42">
+    <members>
+      <personId refId="42-1"/>
+      <personId refId="42-2"/>
+      <personId refId="42-3"/>
+      <personId refId="42-4"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-42-0"/>
+    </vehicles>
+    <income period="year" currency="usd">11507</income>
+  </household>
+  <household id="45">
+    <members>
+      <personId refId="45-2"/>
+      <personId refId="45-3"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-45-0"/>
+      <vehicleDefinitionId refId="auto-45-1"/>
+    </vehicles>
+    <income period="year" currency="usd">43750</income>
+  </household>
+  <household id="48">
+    <members>
+      <personId refId="48-2"/>
+      <personId refId="48-3"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-48-0"/>
+    </vehicles>
+    <income period="year" currency="usd">28650</income>
+  </household>
+  <household id="5">
+    <members>
+      <personId refId="5-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-5-0"/>
+    </vehicles>
+    <income period="year" currency="usd">18373</income>
+  </household>
+  <household id="57">
+    <members>
+      <personId refId="57-2"/>
+      <personId refId="57-3"/>
+      <personId refId="57-4"/>
+      <personId refId="57-5"/>
+      <personId refId="57-6"/>
+      <personId refId="57-7"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-57-0"/>
+    </vehicles>
+    <income period="year" currency="usd">10781</income>
+  </household>
+  <household id="6">
+    <members>
+      <personId refId="6-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-6-0"/>
+    </vehicles>
+    <income period="year" currency="usd">16311</income>
+  </household>
+  <household id="66">
+    <members>
+      <personId refId="66-7"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-66-0"/>
+      <vehicleDefinitionId refId="auto-66-1"/>
+      <vehicleDefinitionId refId="auto-66-2"/>
+    </vehicles>
+    <income period="year" currency="usd">44570</income>
+  </household>
+  <household id="7">
+    <members>
+      <personId refId="7-1"/>
+    </members>
+    <income period="year" currency="usd">11451</income>
+  </household>
+  <household id="9">
+    <members>
+      <personId refId="9-1"/>
+    </members>
+    <vehicles>
+      <vehicleDefinitionId refId="auto-9-0"/>
+    </vehicles>
+    <income period="year" currency="usd">30020</income>
+  </household>
+</households>
