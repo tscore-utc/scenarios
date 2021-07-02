@@ -1,4 +1,5 @@
 # T-Score Scenarios
+
 The MMOS half of the T-SCORE UTC revolves around applying and adapting a multi-agent 
 simulation and an multi-modal optimization algorithm to examine the potential 
 consequences of ride-hail and on-demand transit policies in multiple cities. This
@@ -23,6 +24,7 @@ There are four key folders in this repository:
 The *How to Run TSCORE Scenario* markdown file describes the input files necessary for scenario analyses and how to run these scenario.
 
 ## Handoff Strategy
+
 This section describes the specifics of how the two different halves of the MMOS 
 project interact. This was originally described in the proposal with a version of
 the following graphic:
