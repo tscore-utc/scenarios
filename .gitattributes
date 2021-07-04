@@ -1,3 +1,7 @@
 *.xml filter=lfs diff=lfs merge=lfs -text
 slc-tscore/microtransit_areas/sample/*.csv filter=lfs diff=lfs merge=lfs -text
 slc-tscore/microtransit_areas/input_CSVs/*.csv filter=lfs diff=lfs merge=lfs -text
+slc-tscore/microtransit_areas/data/*.csv filter=lfs diff=lfs merge=lfs -text
+slc-tscore/microtransit_areas/data/*.gz filter=lfs diff=lfs merge=lfs -text
+slc-tscore/microtransit_areas/calibration/*.gz filter=lfs diff=lfs merge=lfs -text
+slc-tscore/microtransit_areas/calibration/*.csv filter=lfs diff=lfs merge=lfs -text
