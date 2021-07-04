@@ -1,0 +1,2 @@
+All these parameters are currently just copied over from the sf-light scenario.
+They should probably be used in the future, and adjusted to the utah scenarios.
