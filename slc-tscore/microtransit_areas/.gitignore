@@ -1,1 +1,3 @@
 /conversion-input/*.xml
+*.RData
+*.Rhistory
