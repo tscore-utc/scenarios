@@ -59,3 +59,8 @@ if(dir.exists(outputFolder) == FALSE) dir.create(outputFolder)
 write_csv(sampleHouseholds, paste(outputFolder, "/households.csv", sep = ''))
 write_csv(samplePersons, paste(outputFolder, "/persons.csv", sep = ''))
 write_csv(sampleTrips, paste(outputFolder, "/trips.csv", sep = ''))
+
+#Copy facility_ids and hhcoord to output directory
+filesToCopyDir <- paste(script.dir, "/../", "input_CSVs/activitysim_output/", sep = '')
+filesToCopy <- c(paste(filesToCopyDir, "facility_ids.csv", sep = ''), paste(filesToCopyDir, "hhcoord.csv", sep = ''))
+file.copy(filesToCopy, outputFolder)
